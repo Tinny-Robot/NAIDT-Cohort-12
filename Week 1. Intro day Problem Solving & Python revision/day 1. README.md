@@ -73,15 +73,5 @@ Conclusion
 Problem-solving is a critical skill for any programmer, and applying problem-solving techniques to Python can help us write more effective and efficient code. By following these tips and techniques, we can develop robust and maintainable code that solves complex problems.
 
 ```python
-numbers = input("Enter a series of numbers separated by a comma: ")
-number_list = [float(num) for num in numbers.split(",")]
-
-if len(number_list) > 0:
-    smallest = min(number_list)
-    largest = max(number_list)
-    print("Smallest number:", smallest)
-    print("Largest number:", largest)
-else:
-    print("No numbers entered.")
-
+## Your Code
 ```
