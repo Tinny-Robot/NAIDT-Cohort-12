@@ -1,0 +1,545 @@
+StudentID,school,sex,age,address,famsize,Pstatus,Medu,Fedu,Mjob,Fjob,reason,guardian,traveltime,studytime,failures,schoolsup,famsup,paid,activities,nursery,higher,internet,romantic,famrel,freetime,goout,Dalc,Walc,health,absences,G1,G2,Grade
+745263,GP,F,18,R,GT3,A,Tertiary education,Secondary education,other,services,home,mother,2,2,0,no,no,no,no,no,no,yes,yes,4,1,1,1,1,very good,15,12,9,10
+174740,MS,F,17,U,GT3,T,Tertiary education,Secondary education,at_home,other,home,mother,2,1,0,no,no,no,no,yes,yes,no,yes,4,3,3,2,2,very bad,5,9,,11
+308261,GP,F,15,U,LE3,T,Tertiary education,Secondary education,services,other,reputation,mother,1,2,0,no,yes,no,no,yes,yes,yes,no,4,4,4,1,1,very good,4,12,11,11
+337549,MS,F,17,U,GT3,T,Secondary education,Secondary education,other,at_home,course,mother,1,1,0,no,yes,no,yes,yes,no,no,no,4,5,3,1,1,very good,4,9,9,10
+318969,GP,F,17,U,GT3,T,Postgraduate education,Postgraduate education,other,teacher,course,mother,1,1,0,yes,yes,no,no,yes,yes,no,yes,4,2,1,1,1,good,0,13,13,13
+922352,GP,F,16,U,GT3,T,Secondary education,Secondary education,other,other,reputation,mother,1,4,0,no,no,no,no,yes,yes,yes,yes,5,2,3,1,3,average,1,13,13,13
+721820,MS,F,17,U,GT3,T,Postgraduate education,Tertiary education,teacher,other,fee,mother,2,2,0,no,no,no,no,yes,yes,yes,no,5,5,4,1,1,very bad,0,6,9,11
+778843,GP,M,16,U,GT3,T,Tertiary education,Primary education,other,other,reputation,father,2,4,0,no,yes,no,no,yes,yes,yes,no,4,3,2,1,1,very good,2,13,11,11
+368093,MS,M,15,R,GT3,T,Primary education,Secondary education,other,services,course,mother,3,2,0,no,yes,no,yes,yes,yes,no,no,5,5,5,1,3,very good,11,9,11,10
+860463,MS,F,18,U,GT3,A,Secondary education,Postgraduate education,other,services,reputation,father,1,2,1,no,yes,no,no,yes,yes,yes,no,2,3,2,1,3,very bad,8,8,5,8
+757917,GP,M,19,R,GT3,T,Tertiary education,Tertiary education,other,services,reputation,father,1,2,0,no,no,no,yes,yes,yes,no,yes,4,5,3,1,2,very good,0,10,10,11
+112666,GP,F,17,U,LE3,A,Secondary education,Primary education,other,other,course,mother,3,1,0,no,yes,no,no,yes,yes,yes,no,3,2,2,1,2,very good,8,11,10,11
+339931,GP,F,16,R,GT3,T,Postgraduate education,Postgraduate education,health,teacher,fee,mother,1,2,0,no,yes,no,yes,yes,yes,no,no,2,4,4,2,3,good,0,17,16,16
+752664,GP,F,17,U,GT3,T,Postgraduate education,Postgraduate education,services,teacher,home,mother,2,1,1,no,yes,no,no,yes,yes,yes,no,4,2,4,2,3,bad,30,14,15,16
+260196,MS,M,17,U,GT3,T,Tertiary education,Tertiary education,health,other,course,mother,2,2,1,no,yes,no,no,yes,yes,yes,no,4,5,4,2,3,average,4,8,9,10
+369544,GP,F,17,U,GT3,T,Primary education,Primary education,services,teacher,reputation,mother,1,3,0,no,yes,no,no,yes,yes,yes,no,4,3,3,1,1,average,0,13,13,14
+987225,MS,F,18,R,LE3,A,Postgraduate education,Secondary education,teacher,other,reputation,mother,1,2,0,no,no,no,yes,yes,yes,yes,yes,5,3,1,1,1,very good,0,5,0,0
+843583,MS,F,18,R,LE3,A,Primary education,Secondary education,at_home,other,course,mother,3,2,0,no,no,no,no,yes,yes,no,yes,4,3,4,1,4,very good,0,16,15,15
+388998,GP,F,16,U,GT3,A,Tertiary education,Postgraduate education,services,other,course,father,1,1,0,no,no,no,no,yes,yes,yes,no,3,2,1,1,4,very good,12,15,13,14
+717075,GP,F,16,U,GT3,T,Secondary education,Tertiary education,other,other,reputation,mother,1,2,0,yes,yes,no,yes,yes,yes,no,no,4,4,3,1,3,good,4,11,12,12
+562894,MS,F,16,U,GT3,T,Tertiary education,Secondary education,services,at_home,course,mother,1,1,0,no,no,no,no,yes,yes,yes,no,3,1,3,1,4,average,2,7,6,7
+228391,GP,F,17,U,GT3,T,Tertiary education,Primary education,services,services,course,father,1,3,0,no,yes,no,no,no,yes,yes,no,3,4,3,2,3,very good,0,17,18,17
+104014,MS,M,16,R,GT3,T,Tertiary education,Postgraduate education,other,health,fee,mother,3,2,0,no,no,no,no,no,yes,no,no,3,4,5,1,2,very good,4,9,10,11
+691460,GP,F,17,U,LE3,T,Postgraduate education,Tertiary education,health,other,reputation,father,1,2,0,no,no,no,yes,yes,yes,yes,yes,3,2,3,1,2,average,0,14,12,12
+647577,MS,F,18,U,GT3,T,Secondary education,Secondary education,other,other,course,mother,2,2,0,no,yes,no,no,no,yes,yes,yes,1,3,1,1,1,bad,4,8,8,10
+798376,GP,F,18,U,GT3,T,Secondary education,Secondary education,at_home,at_home,fee,mother,1,3,0,no,yes,no,no,yes,yes,yes,no,4,3,3,1,2,bad,0,18,18,18
+284779,GP,M,16,U,GT3,T,Postgraduate education,Postgraduate education,teacher,teacher,home,mother,1,2,0,no,yes,yes,yes,yes,yes,yes,yes,4,4,5,5,5,very good,4,12,11,12
+171295,GP,M,18,R,GT3,T,Tertiary education,Secondary education,other,other,course,mother,1,3,0,no,no,no,yes,no,yes,no,no,5,3,2,1,1,average,2,10,11,12
+151663,GP,M,17,R,GT3,T,Secondary education,Primary education,other,other,course,mother,1,1,0,no,no,no,no,no,yes,yes,no,4,4,2,2,4,very good,0,12,12,13
+506716,MS,F,17,R,GT3,T,Primary education,Primary education,at_home,at_home,course,father,2,1,0,no,yes,no,yes,yes,no,yes,yes,3,5,5,2,2,good,3,10,11,10
+418394,GP,M,18,U,LE3,T,Secondary education,Primary education,services,other,course,mother,3,2,1,no,no,no,yes,no,no,yes,no,4,4,5,4,4,very good,4,11,10,11
+303861,MS,M,19,U,GT3,T,Tertiary education,Secondary education,at_home,services,course,mother,2,1,3,no,no,no,yes,yes,yes,no,no,3,2,1,1,1,average,4,6,11,9
+406063,MS,M,19,R,GT3,T,Primary education,Primary education,other,other,home,other,3,1,1,no,yes,no,no,yes,yes,yes,no,4,4,4,3,3,very good,4,8,9,10
+545101,MS,M,16,U,GT3,T,Primary education,Primary education,at_home,services,home,mother,2,2,0,no,yes,no,yes,yes,yes,no,yes,5,4,5,4,5,average,0,7,0,0
+668550,GP,M,16,U,GT3,T,Secondary education,Tertiary education,other,other,home,father,2,1,0,no,no,no,no,yes,yes,yes,no,5,3,3,1,1,average,0,13,12,12
+233883,GP,F,19,U,GT3,T,Secondary education,Secondary education,services,services,home,mother,1,2,0,no,yes,no,no,yes,yes,yes,no,4,3,3,1,1,very good,0,10,10,11
+458745,GP,M,18,U,GT3,T,Postgraduate education,Postgraduate education,teacher,services,home,mother,2,1,0,no,no,no,yes,yes,yes,yes,no,3,2,4,1,4,average,6,11,12,12
+292506,GP,M,17,U,GT3,T,Primary education,Primary education,other,other,reputation,father,1,2,0,no,no,no,no,no,yes,yes,no,4,3,3,1,2,good,0,12,12,12
+143585,GP,M,16,R,GT3,T,Postgraduate education,Secondary education,teacher,services,fee,mother,1,1,0,no,yes,no,yes,yes,yes,yes,yes,4,3,3,3,4,average,8,,9,11
+640652,MS,F,18,U,LE3,A,Primary education,Primary education,at_home,services,course,mother,1,2,0,no,no,no,no,yes,yes,no,yes,5,2,3,1,2,average,2,8,,11
+172991,MS,M,15,R,LE3,T,Postgraduate education,Primary education,health,services,reputation,father,1,2,0,no,yes,no,yes,yes,yes,yes,no,5,3,4,1,2,bad,7,7,9,8
+825451,GP,F,17,U,GT3,T,Postgraduate education,Postgraduate education,teacher,services,course,mother,1,3,0,no,yes,no,yes,yes,yes,yes,no,5,4,4,1,3,good,0,13,12,13
+987121,GP,F,18,U,GT3,T,Secondary education,Secondary education,at_home,services,home,mother,1,3,0,no,yes,no,yes,yes,yes,yes,yes,4,3,3,1,1,average,0,11,12,13
+314283,GP,F,16,U,GT3,T,Postgraduate education,Postgraduate education,teacher,services,home,mother,1,3,0,no,yes,no,yes,no,yes,yes,no,5,3,2,1,1,very good,4,15,16,16
+494366,MS,M,15,U,LE3,A,Secondary education,Primary education,services,services,course,mother,1,1,0,no,no,no,yes,yes,yes,yes,no,4,3,3,1,2,very good,11,12,13,12
+567281,GP,M,150,U,GT3,A,Tertiary education,Postgraduate education,services,other,course,mother,1,2,0,no,yes,no,yes,yes,yes,yes,no,5,4,4,1,1,very bad,0,16,16,16
+662332,GP,M,15,R,GT3,T,Secondary education,Primary education,health,services,reputation,mother,1,2,0,no,no,no,yes,yes,yes,yes,yes,5,4,2,1,1,very good,4,10,9,10
+999684,GP,M,17,U,GT3,T,Secondary education,Primary education,other,other,home,mother,1,1,0,no,yes,no,no,yes,yes,yes,no,5,4,5,1,2,very good,22,9,7,6
+121959,GP,F,16,U,GT3,T,Postgraduate education,Tertiary education,teacher,other,fee,mother,1,2,0,no,no,no,yes,yes,yes,yes,yes,1,3,2,1,1,very bad,4,14,15,15
+832180,GP,F,17,U,GT3,A,Postgraduate education,Postgraduate education,other,teacher,home,mother,2,2,0,yes,yes,no,no,yes,yes,no,no,4,1,4,1,1,very bad,2,10,13,13
+870746,GP,M,16,U,LE3,T,Primary education,Primary education,other,other,home,mother,2,2,0,no,yes,no,no,yes,yes,yes,no,3,4,2,1,1,very good,2,9,9,9
+580761,MS,F,15,R,GT3,T,Tertiary education,Tertiary education,services,other,reputation,mother,1,2,0,no,yes,no,no,yes,yes,yes,yes,4,5,4,1,1,very bad,4,13,12,12
+798002,GP,M,18,U,LE3,A,Postgraduate education,Postgraduate education,teacher,teacher,reputation,mother,1,2,0,no,yes,no,yes,yes,yes,yes,no,5,4,3,1,1,bad,0,17,17,17
+833429,MS,M,17,R,LE3,T,Primary education,Secondary education,at_home,services,reputation,mother,1,1,0,no,yes,no,yes,yes,yes,yes,no,5,5,5,5,5,average,4,10,11,11
+907364,GP,F,18,U,GT3,T,Primary education,Primary education,other,other,home,mother,2,2,0,yes,no,no,yes,yes,yes,yes,no,5,4,4,1,1,good,0,,13,13
+207512,GP,F,18,U,GT3,T,Postgraduate education,Postgraduate education,health,health,reputation,father,1,2,1,yes,yes,no,yes,yes,yes,yes,yes,2,4,4,1,1,good,2,,12,13
+411955,GP,F,17,U,LE3,T,Postgraduate education,Secondary education,teacher,services,reputation,mother,1,4,0,no,yes,no,yes,yes,yes,yes,no,4,2,3,1,1,good,2,14,15,17
+894824,GP,M,17,R,GT3,T,Tertiary education,Postgraduate education,at_home,other,course,mother,3,2,0,no,no,no,no,yes,yes,no,no,5,4,5,2,4,very good,2,10,9,10
+554589,GP,F,16,U,LE3,T,Postgraduate education,Postgraduate education,teacher,teacher,reputation,mother,1,2,0,no,yes,no,no,yes,yes,yes,no,4,5,2,1,2,average,0,11,10,11
+165725,GP,M,15,U,GT3,T,Secondary education,Secondary education,services,services,course,father,1,1,0,yes,yes,no,no,yes,yes,yes,no,5,4,1,1,1,very bad,0,9,10,10
+552366,GP,M,15,U,GT3,T,Postgraduate education,Postgraduate education,services,teacher,course,father,1,2,0,no,yes,no,yes,yes,yes,yes,no,4,3,3,1,1,very good,0,14,15,15
+903591,GP,M,16,U,GT3,T,Tertiary education,Primary education,other,other,reputation,mother,1,1,0,no,no,no,yes,yes,yes,no,no,5,3,2,2,2,very good,0,13,13,14
+750429,MS,F,16,R,LE3,T,Primary education,Secondary education,at_home,other,course,mother,1,2,0,no,no,no,yes,yes,no,yes,no,4,4,5,1,3,average,0,8,9,9
+840427,MS,M,17,U,GT3,T,Secondary education,Secondary education,other,other,course,mother,1,1,1,no,no,no,yes,yes,yes,no,yes,1,2,1,2,3,very good,0,7,0,0
+168148,GP,M,15,U,GT3,A,Postgraduate education,Postgraduate education,other,services,reputation,mother,1,4,0,no,yes,no,yes,no,yes,yes,yes,1,3,3,5,5,average,0,11,120,12
+187498,GP,F,15,U,GT3,T,Secondary education,Primary education,services,other,reputation,father,3,3,0,no,yes,no,yes,yes,yes,yes,no,5,2,2,1,1,good,0,10,12,13
+867595,GP,M,17,U,GT3,T,Tertiary education,Tertiary education,services,services,fee,mother,1,2,0,no,yes,no,yes,yes,yes,yes,yes,4,3,4,2,3,good,6,11,13,14
+444894,MS,F,17,R,GT3,T,Postgraduate education,Primary education,other,other,fee,mother,1,1,0,no,no,no,no,yes,yes,yes,yes,4,2,3,1,2,very good,1,13,14,14
+738836,MS,M,17,U,GT3,T,Tertiary education,Secondary education,other,other,fee,father,2,2,0,no,yes,yes,no,yes,yes,yes,no,4,1,2,2,2,very bad,0,13,14,13
+218015,MS,F,17,R,GT3,T,Primary education,Primary education,other,other,fee,father,1,1,1,no,yes,no,no,no,no,yes,no,5,4,4,2,2,very good,0,6,6,7
+277789,GP,F,17,U,LE3,T,Primary education,Primary education,at_home,at_home,course,mother,1,3,0,no,yes,no,yes,yes,yes,yes,yes,4,3,2,1,2,good,10,11,,10
+983811,MS,F,17,U,GT3,T,Postgraduate education,Secondary education,other,other,course,mother,2,2,0,no,yes,no,no,yes,yes,yes,no,4,3,3,1,2,good,0,17,18,18
+650233,MS,M,17,U,GT3,T,Primary education,Primary education,at_home,services,fee,mother,3,2,0,no,no,no,no,yes,yes,yes,yes,5,1,3,3,3,very bad,0,10,10,10
+790607,MS,F,18,R,GT3,T,Secondary education,Secondary education,other,other,fee,mother,2,1,1,no,no,no,no,yes,no,yes,yes,5,5,5,1,1,average,0,8,6,0
+864469,GP,M,15,U,LE3,T,Secondary education,Secondary education,services,services,home,mother,2,2,0,no,no,yes,yes,yes,yes,yes,no,5,3,3,1,3,good,2,13,12,13
+250810,GP,F,18,U,LE3,T,Tertiary education,Tertiary education,services,services,home,mother,1,4,0,no,yes,no,no,yes,yes,yes,no,5,3,3,1,1,very bad,4,14,14,15
+671542,GP,F,18,U,GT3,T,Secondary education,Tertiary education,other,services,reputation,father,1,4,0,no,yes,no,yes,yes,yes,yes,yes,4,5,5,1,3,bad,10,16,16,16
+760960,GP,F,18,U,GT3,T,Tertiary education,Secondary education,other,services,fee,mother,1,3,0,no,no,no,no,yes,yes,yes,yes,5,4,3,2,3,very bad,4,14,16,17
+824839,GP,F,16,U,GT3,T,Tertiary education,Postgraduate education,at_home,other,course,mother,1,2,0,no,yes,no,no,yes,yes,yes,no,2,4,3,1,2,average,14,12,11,11
+876997,GP,M,16,U,LE3,T,Secondary education,Secondary education,other,other,reputation,mother,2,2,0,no,yes,,yes,yes,yes,yes,no,5,4,4,2,4,very good,2,10,10,10
+265838,GP,M,18,U,GT3,T,Secondary education,Secondary education,services,other,home,mother,1,2,0,no,yes,no,yes,yes,yes,yes,no,4,4,4,2,4,very good,10,12,11,11
+639439,GP,M,18,U,GT3,T,Postgraduate education,Secondary education,teacher,other,home,mother,1,2,0,no,yes,no,yes,yes,yes,yes,yes,4,3,2,1,4,very good,2,15,16,16
+977844,GP,F,19,U,LE3,A,Primary education,Primary education,other,other,course,other,3,2,2,no,yes,no,no,no,yes,yes,yes,5,3,4,1,1,good,2,8,8,9
+139353,GP,F,16,U,GT3,T,Secondary education,Tertiary education,services,teacher,fee,mother,1,2,0,yes,no,no,no,yes,yes,yes,no,2,3,1,1,1,average,0,13,13,14
+937437,GP,F,17,R,GT3,T,Secondary education,Primary education,at_home,services,reputation,mother,2,2,0,no,yes,no,yes,yes,yes,yes,no,4,2,5,1,2,very good,0,11,10,11
+925816,GP,F,18,R,GT3,T,Secondary education,Primary education,other,other,reputation,mother,2,2,0,no,yes,no,no,yes,no,yes,yes,4,3,5,1,2,average,12,8,9,10
+369536,GP,M,18,U,GT3,T,Secondary education,Secondary education,other,at_home,course,other,1,1,1,no,yes,,yes,no,no,yes,yes,4,4,3,2,2,very bad,26,7,8,8
+728776,GP,F,16,U,GT3,A,Secondary education,Secondary education,other,other,home,mother,1,1,1,no,no,no,no,yes,yes,no,no,5,3,4,1,1,very good,12,13,11,11
+792517,GP,F,17,U,GT3,T,Primary education,Primary education,at_home,other,course,mother,1,2,0,yes,no,no,no,no,yes,no,yes,4,3,2,1,1,good,10,10,9,10
+539792,GP,F,17,U,GT3,T,Primary education,Primary education,at_home,other,reputation,mother,1,3,0,no,yes,no,yes,yes,yes,no,yes,4,3,4,1,1,very good,12,12,12,12
+326507,MS,M,18,U,LE3,T,Primary education,Tertiary education,at_home,services,course,mother,1,1,0,no,no,no,no,yes,no,yes,yes,4,3,3,2,3,average,0,9,10,9
+785440,GP,M,16,R,LE3,T,Tertiary education,Tertiary education,teacher,other,home,father,3,1,0,no,yes,no,yes,yes,yes,yes,no,3,3,4,3,5,average,16,10,11,3
+237337,GP,M,15,U,GT3,T,Tertiary education,Postgraduate education,other,other,home,mother,1,2,0,no,yes,no,yes,yes,yes,yes,no,5,5,1,1,1,very good,0,12,12,13
+288751,MS,M,17,R,GT3,T,Postgraduate education,Tertiary education,services,other,home,mother,2,2,1,no,yes,,yes,no,yes,yes,yes,4,5,5,1,3,bad,4,10,11,11
+501896,GP,F,20,R,GT3,T,Secondary education,Primary education,other,other,course,other,2,2,0,no,yes,yes,yes,yes,no,yes,yes,1,2,3,1,2,bad,8,10,12,12
+233272,GP,F,17,U,GT3,T,Secondary education,Tertiary education,other,other,course,father,2,2,0,no,no,no,yes,yes,yes,yes,yes,4,2,1,1,1,average,2,11,12,14
+604999,MS,F,18,U,GT3,T,Tertiary education,Tertiary education,other,other,home,mother,1,2,0,no,no,no,no,yes,yes,yes,yes,4,1,3,1,2,very bad,1,16,16,16
+799438,MS,F,17,U,GT3,T,Primary education,Primary education,other,at_home,course,mother,1,1,0,no,yes,,yes,yes,yes,no,no,4,3,2,1,2,very good,9,7,9,10
+441097,GP,F,15,U,GT3,T,Primary education,Primary education,other,other,home,father,1,2,0,no,yes,no,yes,no,yes,yes,no,4,3,2,2,3,good,2,13,12,12
+242483,GP,M,18,U,GT3,T,Secondary education,Primary education,other,other,home,mother,1,2,0,no,no,no,yes,yes,yes,yes,no,5,2,4,1,2,good,2,16,16,16
+866577,MS,M,15,R,LE3,T,Postgraduate education,Primary education,health,services,reputation,father,1,2,0,no,yes,,yes,yes,yes,yes,no,5,3,4,1,2,bad,0,12,13,14
+642335,GP,M,17,R,GT3,T,Primary education,Secondary education,at_home,other,home,mother,1,2,0,no,no,no,no,yes,yes,no,no,3,1,3,1,5,average,6,9,9,10
+209556,GP,F,17,U,GT3,T,Secondary education,Postgraduate education,services,services,reputation,father,1,2,0,no,yes,no,yes,yes,yes,no,no,5,4,2,2,3,very good,0,17,18,17
+713333,GP,M,17,U,GT3,T,Secondary education,Tertiary education,other,other,course,father,2,1,0,no,no,no,no,yes,yes,yes,no,5,2,2,1,1,bad,2,9,12,13
+723587,GP,F,16,U,GT3,T,Postgraduate education,Secondary education,teacher,services,home,mother,2,2,0,no,yes,no,yes,yes,yes,yes,no,5,3,3,1,1,very bad,2,13,14,14
+128251,MS,F,17,R,GT3,T,Secondary education,Secondary education,at_home,other,fee,mother,1,1,0,no,yes,yes,no,yes,yes,yes,no,5,1,3,1,2,very good,5,9,9,9
+218834,MS,F,18,R,GT3,T,Primary education,Primary education,at_home,at_home,course,mother,2,1,1,no,no,no,no,no,no,yes,yes,3,2,3,1,1,bad,4,9,11,10
+388790,MS,F,18,U,GT3,T,Secondary education,Secondary education,services,at_home,reputation,father,2,2,0,no,no,no,yes,no,yes,yes,no,4,3,5,1,1,very bad,2,12,13,14
+314176,GP,M,16,U,LE3,A,Tertiary education,Postgraduate education,services,other,home,mother,1,2,0,yes,yes,yes,yes,yes,yes,yes,no,5,3,3,1,1,very good,2,12,12,13
+873290,GP,M,16,U,GT3,T,Tertiary education,Postgraduate education,other,other,course,father,3,1,1,no,yes,no,yes,no,yes,yes,no,3,4,5,2,4,bad,4,9,9,10
+903451,MS,F,16,R,GT3,T,Secondary education,Tertiary education,at_home,services,fee,mother,2,2,0,no,yes,no,yes,yes,yes,yes,no,3,3,3,1,1,bad,0,8,10,10
+974371,GP,M,17,R,LE3,T,Primary education,Primary education,other,services,course,mother,4,2,0,no,no,no,yes,yes,no,no,yes,5,3,5,1,5,very good,0,8,8,8
+613153,GP,F,16,U,GT3,T,Primary education,Secondary education,other,other,course,mother,1,1,0,no,no,no,no,yes,no,yes,no,5,3,5,1,2,very good,4,12,11,11
+301664,GP,F,15,U,GT3,T,Postgraduate education,Postgraduate education,teacher,services,course,mother,1,3,0,no,yes,no,yes,yes,yes,yes,no,4,2,2,1,1,very good,2,13,13,13
+206530,GP,M,15,U,GT3,T,Postgraduate education,Tertiary education,teacher,other,home,mother,1,2,0,no,yes,no,yes,yes,yes,yes,no,4,3,3,2,3,very good,0,11,11,11
+802335,GP,F,18,U,GT3,T,Postgraduate education,Tertiary education,other,other,course,mother,1,3,0,no,yes,no,yes,yes,yes,yes,yes,4,3,4,1,1,very good,2,14,15,17
+323165,GP,F,16,U,LE3,T,Tertiary education,Primary education,other,other,home,father,1,2,0,yes,yes,no,no,yes,yes,no,no,3,3,3,2,3,bad,0,12,13,12
+924792,GP,F,18,U,GT3,T,Primary education,Postgraduate education,other,teacher,home,mother,1,2,0,yes,yes,no,no,no,yes,no,yes,3,4,4,1,2,very good,2,10,10,11
+748531,GP,F,15,R,LE3,T,Secondary education,Secondary education,health,services,reputation,mother,2,2,0,yes,yes,no,no,yes,yes,yes,no,4,1,3,1,3,good,0,11,10,11
+956703,GP,M,18,U,GT3,T,Postgraduate education,Postgraduate education,other,other,course,mother,1,3,0,no,no,no,yes,yes,yes,yes,no,4,3,3,2,2,average,0,13,14,13
+480002,GP,M,18,U,GT3,T,Secondary education,Primary education,services,services,reputation,mother,1,3,0,no,no,no,yes,yes,yes,yes,no,4,2,4,1,3,bad,0,14,15,15
+961882,GP,F,16,U,LE3,T,Tertiary education,Tertiary education,other,other,reputation,mother,2,2,0,no,yes,no,yes,yes,yes,yes,no,4,4,5,1,1,good,0,14,14,15
+378167,GP,F,16,U,GT3,T,Postgraduate education,Postgraduate education,health,other,home,mother,1,1,0,no,yes,no,no,yes,yes,yes,no,4,4,4,1,2,bad,6,17,17,17
+717296,MS,M,17,U,LE3,T,Tertiary education,Primary education,services,services,course,mother,2,1,0,no,no,no,no,no,yes,yes,no,2,4,5,3,4,bad,6,10,10,10
+566960,GP,M,18,U,LE3,T,Secondary education,Secondary education,services,services,reputation,mother,1,2,0,no,yes,no,yes,no,no,yes,no,4,4,4,1,3,average,11,9,11,12
+538974,GP,M,16,U,GT3,T,Secondary education,Secondary education,services,other,reputation,father,2,2,0,no,no,no,yes,no,yes,yes,no,4,4,2,1,1,average,6,12,10,11
+903328,MS,M,17,R,LE3,T,Primary education,Tertiary education,other,other,course,father,2,1,0,no,no,no,yes,yes,yes,no,yes,5,1,2,3,3,very good,2,12,11,12
+148984,GP,M,16,U,GT3,T,Tertiary education,Tertiary education,other,services,home,father,2,1,0,no,no,no,yes,yes,yes,yes,no,5,4,2,1,1,very good,6,14,14,15
+251836,MS,M,18,R,GT3,T,Secondary education,Primary education,other,other,fee,mother,2,1,0,no,no,no,yes,no,yes,yes,yes,4,4,3,1,3,very good,0,7,7,0
+132097,MS,F,16,U,GT3,T,Secondary education,Secondary education,other,services,course,father,1,1,1,no,yes,yes,yes,no,yes,yes,no,4,4,3,1,4,average,1,9,10,10
+586232,GP,M,15,U,LE3,T,Tertiary education,Tertiary education,other,other,course,mother,1,2,0,no,no,no,yes,no,yes,yes,no,5,3,2,1,1,bad,0,13,12,12
+221958,GP,F,18,U,GT3,A,Postgraduate education,Postgraduate education,at_home,teacher,course,mother,2,2,0,yes,no,no,no,yes,yes,no,no,4,3,4,1,1,average,4,0,11,11
+767521,MS,F,18,R,GT3,T,Secondary education,Secondary education,at_home,other,fee,mother,2,3,0,no,no,no,no,yes,yes,no,no,5,3,3,1,3,good,0,14,17,15
+325281,GP,M,17,U,LE3,T,Secondary education,Secondary education,other,other,home,father,1,2,0,no,no,no,yes,no,yes,yes,yes,4,4,2,5,5,good,0,16,16,16
+405628,GP,M,17,U,LE3,A,Postgraduate education,Postgraduate education,health,other,reputation,mother,1,3,0,no,yes,no,no,yes,yes,yes,no,4,4,2,1,2,good,2,12,15,15
+673665,GP,M,18,U,GT3,T,Postgraduate education,Postgraduate education,teacher,services,home,father,1,2,0,no,yes,no,yes,yes,yes,yes,no,4,3,3,2,2,bad,0,12,12,13
+653663,MS,M,16,R,LE3,T,Primary education,Secondary education,other,at_home,course,mother,1,1,0,no,no,no,no,yes,yes,no,no,4,4,4,2,4,very good,4,9,10,11
+570587,GP,F,19,R,GT3,T,Tertiary education,Secondary education,services,services,reputation,father,1,2,1,yes,yes,no,no,yes,no,yes,no,3,3,3,4,3,average,0,9,8,10
+427069,GP,M,16,U,LE3,T,Postgraduate education,Secondary education,teacher,other,course,mother,1,2,0,no,no,no,yes,yes,yes,yes,no,4,5,1,1,3,very good,0,12,13,14
+339629,GP,F,16,U,GT3,T,Primary education,Primary education,services,services,course,father,4,1,0,yes,yes,no,yes,no,yes,yes,yes,5,5,5,5,5,very good,0,10,10,16
+476896,GP,M,15,U,GT3,T,Postgraduate education,Postgraduate education,other,teacher,reputation,father,2,2,0,no,yes,no,yes,yes,yes,no,no,4,4,3,1,1,bad,4,16,15,16
+460260,MS,M,18,U,LE3,T,Postgraduate education,Postgraduate education,services,other,reputation,mother,1,1,0,no,yes,no,yes,yes,yes,yes,no,5,4,5,1,1,very good,3,17,17,17
+435674,GP,F,17,R,LE3,T,Postgraduate education,Postgraduate education,services,other,fee,mother,1,1,0,no,yes,no,no,yes,yes,no,no,5,2,1,1,2,average,6,12,11,11
+302283,GP,M,16,U,LE3,A,Postgraduate education,Postgraduate education,teacher,health,reputation,mother,1,2,0,no,yes,no,no,yes,yes,no,no,4,1,3,3,5,very good,6,9,9,10
+827270,GP,F,16,U,GT3,T,Secondary education,Secondary education,other,other,home,mother,1,2,0,no,yes,no,no,no,yes,yes,no,5,1,5,1,1,good,0,12,12,13
+561079,GP,F,18,U,GT3,T,Secondary education,Primary education,other,other,course,other,2,3,0,no,yes,no,no,no,yes,yes,yes,4,4,4,1,1,average,10,12,10,11
+455528,GP,M,18,U,GT3,T,Secondary education,Primary education,services,services,fee,mother,1,1,2,no,no,no,no,no,no,yes,no,3,2,5,2,5,very good,4,7,8,6
+164820,GP,M,17,U,GT3,T,Tertiary education,Secondary education,services,services,course,mother,1,1,3,no,yes,yes,yes,yes,yes,yes,no,5,5,5,2,4,very good,2,8,8,7
+373255,GP,M,17,U,GT3,T,Secondary education,Secondary education,other,other,home,father,2,1,0,no,no,no,no,yes,no,yes,no,4,4,4,2,3,good,8,8,8,9
+538741,GP,M,18,U,LE3,T,Secondary education,Secondary education,other,other,course,mother,1,4,0,no,yes,yes,yes,yes,yes,yes,no,4,5,5,2,4,very good,0,11,11,12
+451279,GP,F,16,R,GT3,T,Primary education,Primary education,other,services,reputation,mother,2,1,0,no,yes,no,yes,yes,yes,no,yes,3,3,3,1,2,very bad,8,12,11,11
+909760,GP,F,19,U,GT3,T,Primary education,Primary education,other,other,course,other,3,3,0,no,no,no,yes,yes,no,no,yes,1,5,5,4,3,very good,12,10,10,11
+217796,GP,F,17,U,GT3,T,Secondary education,Secondary education,other,other,course,mother,1,2,0,no,yes,no,no,no,yes,yes,no,5,4,5,1,2,very good,12,12,12,14
+221172,MS,F,17,R,GT3,T,No education,No education,at_home,other,course,mother,2,1,0,no,yes,no,no,yes,yes,yes,no,4,4,3,1,1,very good,0,10,11,11
+805696,MS,F,17,R,GT3,T,Tertiary education,Secondary education,at_home,other,course,father,1,2,1,no,no,no,no,yes,yes,no,yes,4,5,4,1,2,very good,0,10,10,10
+145714,GP,F,17,U,GT3,T,Secondary education,Primary education,services,other,reputation,mother,1,2,0,no,yes,no,yes,yes,yes,yes,no,4,3,5,2,4,good,4,12,16,16
+691723,GP,F,16,U,LE3,A,Tertiary education,Tertiary education,other,services,home,mother,1,2,0,no,yes,no,no,yes,yes,yes,no,2,3,5,1,4,average,6,13,12,13
+842452,GP,F,17,R,GT3,T,Secondary education,Primary education,at_home,services,course,mother,3,2,0,no,no,no,yes,yes,yes,no,no,2,1,1,1,1,average,2,13,13,13
+542296,GP,M,16,U,GT3,T,Tertiary education,Tertiary education,services,other,home,mother,1,2,0,no,no,no,yes,yes,yes,yes,yes,4,2,3,1,2,average,0,11,12,13
+980729,MS,M,18,R,LE3,T,Tertiary education,Secondary education,services,other,course,mother,3,1,0,no,no,no,no,no,yes,yes,no,4,4,1,3,4,very good,4,10,11,11
+200235,MS,F,16,U,LE3,T,Postgraduate education,Primary education,other,other,home,mother,2,2,0,no,yes,no,yes,yes,yes,yes,no,1,2,4,2,2,very bad,8,9,10,10
+448951,GP,M,16,U,GT3,T,Tertiary education,Tertiary education,services,other,home,father,1,3,0,no,yes,no,yes,yes,yes,yes,no,5,3,3,1,1,very good,4,13,14,14
+876665,MS,F,19,U,LE3,A,Primary education,Primary education,at_home,other,course,mother,1,1,0,no,yes,no,no,yes,no,no,no,1,4,4,1,1,very good,0,6,8,7
+493002,MS,F,16,U,GT3,T,Primary education,Primary education,at_home,other,course,father,1,2,0,no,yes,no,no,no,yes,no,yes,5,4,3,2,1,bad,0,13,14,15
+628787,GP,F,17,R,LE3,T,Tertiary education,Primary education,services,other,reputation,mother,2,4,0,no,yes,no,no,yes,yes,no,no,3,1,2,1,1,average,0,18,19,19
+997059,MS,M,16,U,LE3,T,Secondary education,Primary education,at_home,services,course,mother,2,1,0,no,yes,no,yes,yes,yes,yes,no,2,4,3,2,3,good,4,10,8,10
+591072,MS,F,19,R,GT3,T,Primary education,Primary education,at_home,other,course,other,2,2,1,no,yes,no,no,yes,yes,yes,yes,4,3,3,1,1,average,4,7,8,9
+291475,MS,M,19,R,GT3,T,Primary education,Primary education,other,services,home,other,3,2,1,no,no,no,no,yes,yes,yes,no,5,4,4,3,3,bad,8,10,9,11
+701863,MS,M,15,U,GT3,T,Tertiary education,Tertiary education,services,services,course,father,2,1,0,no,yes,no,yes,no,yes,yes,no,4,3,3,2,4,average,11,12,10,11
+548982,MS,F,16,R,GT3,T,Secondary education,Secondary education,other,other,course,father,3,2,0,no,yes,no,no,yes,no,yes,no,3,4,5,1,2,very bad,1,9,10,11
+425352,GP,F,18,U,GT3,T,Tertiary education,Secondary education,at_home,other,reputation,father,1,3,0,no,yes,no,no,yes,yes,yes,yes,4,3,4,1,2,bad,5,14,17,17
+556551,GP,M,15,U,GT3,T,Postgraduate education,Tertiary education,teacher,services,course,father,2,4,0,yes,yes,no,no,yes,yes,yes,no,2,2,2,1,1,average,6,9,11,11
+803550,GP,F,16,U,GT3,T,Secondary education,Secondary education,other,other,home,mother,1,2,0,no,no,no,no,yes,yes,yes,yes,5,4,4,1,1,very good,0,12,11,11
+549395,MS,F,16,U,GT3,T,Tertiary education,Primary education,other,other,course,mother,1,1,0,no,no,no,yes,yes,yes,yes,no,3,1,3,1,3,very bad,0,8,6,8
+641252,MS,M,17,R,GT3,T,Secondary education,Secondary education,other,other,course,mother,2,1,0,no,no,no,yes,yes,no,no,yes,5,5,5,3,5,very good,0,8,13,10
+874684,GP,M,16,U,GT3,T,Primary education,No education,other,other,reputation,mother,2,2,0,no,yes,no,yes,yes,yes,yes,yes,4,3,2,1,1,average,0,16,17,18
+431593,MS,F,17,R,,T,Tertiary education,Primary education,at_home,other,reputation,mother,1,2,0,no,yes,no,yes,no,yes,yes,no,4,5,4,2,3,very bad,10,8,9,9
+506619,MS,F,17,R,,T,Secondary education,Secondary education,at_home,other,course,mother,2,2,0,no,yes,no,no,yes,yes,yes,no,4,3,5,1,2,good,0,11,10,11
+924926,MS,M,19,R,,T,Primary education,Primary education,other,services,fee,mother,2,1,1,no,no,no,no,yes,yes,no,no,4,3,2,1,3,very good,0,5,8,0
+692673,MS,F,18,R,GT3,T,Secondary education,Secondary education,at_home,other,course,mother,3,2,1,no,no,no,yes,yes,yes,no,yes,4,3,3,1,1,good,0,9,0,0
+475713,GP,M,18,U,LE3,T,Tertiary education,Primary education,services,services,course,mother,2,1,0,no,no,no,yes,yes,yes,yes,yes,3,3,4,4,5,good,2,11,11,12
+130535,GP,F,16,R,GT3,T,Primary education,Primary education,at_home,other,course,mother,4,2,0,no,yes,no,no,yes,yes,no,no,5,1,3,1,1,average,0,14,13,13
+827975,MS,F,16,R,GT3,T,Postgraduate education,Postgraduate education,health,teacher,reputation,father,1,2,0,no,no,no,yes,no,yes,yes,yes,4,3,3,2,3,bad,0,14,16,16
+887201,GP,M,16,U,LE3,T,Postgraduate education,Tertiary education,health,other,home,father,1,1,0,no,no,no,yes,yes,yes,yes,no,3,1,3,1,3,very good,6,12,12,12
+150015,GP,M,16,U,GT3,T,Tertiary education,Tertiary education,other,services,course,father,1,2,1,no,yes,no,no,yes,yes,yes,yes,4,5,5,4,4,very good,0,10,10,1
+698135,MS,M,17,U,LE3,T,Postgraduate education,Postgraduate education,other,services,home,mother,1,3,0,no,yes,no,no,yes,yes,yes,no,4,4,3,1,2,very good,0,15,14,16
+999159,GP,M,15,U,LE3,T,Postgraduate education,Postgraduate education,health,services,course,father,1,1,0,no,yes,no,yes,yes,yes,yes,no,4,3,3,1,3,very good,0,12,13,12
+891743,GP,F,16,U,GT3,T,Secondary education,Secondary education,services,services,home,mother,1,1,0,no,yes,no,no,no,yes,yes,no,1,2,2,1,3,very good,6,10,11,12
+635017,MS,F,16,R,GT3,T,Secondary education,Tertiary education,other,services,course,mother,3,2,0,no,yes,no,no,yes,yes,yes,no,4,5,4,1,2,very bad,2,15,15,15
+647707,GP,M,17,R,LE3,T,Primary education,Secondary education,other,other,reputation,mother,1,1,3,no,no,no,no,yes,yes,no,no,2,2,2,3,3,very good,14,9,8,10
+929957,GP,F,20,R,GT3,T,Primary education,Primary education,other,other,reputation,other,2,3,0,no,no,no,no,yes,yes,yes,yes,3,2,2,1,3,average,8,11,15,15
+837378,GP,F,18,U,GT3,T,Secondary education,Primary education,services,other,course,mother,2,2,0,no,yes,no,yes,yes,yes,yes,no,5,3,3,1,2,very bad,2,12,12,15
+840976,GP,M,17,R,GT3,T,Secondary education,Secondary education,other,other,course,father,2,2,0,no,yes,no,yes,yes,yes,yes,no,4,5,2,1,1,very bad,0,12,13,13
+473632,MS,M,19,U,GT3,T,Primary education,Primary education,other,other,fee,mother,1,2,2,no,yes,no,yes,yes,no,yes,no,4,4,3,3,4,good,2,9,9,10
+481050,GP,M,17,R,GT3,T,Primary education,Primary education,other,other,home,father,2,3,0,no,no,no,no,no,yes,yes,yes,4,3,3,1,1,very bad,2,13,14,15
+591234,GP,F,16,U,LE3,T,Primary education,Primary education,at_home,at_home,course,mother,1,1,0,no,no,no,no,yes,yes,yes,no,3,4,4,3,3,very bad,4,10,11,11
+580754,GP,F,15,U,LE3,A,Tertiary education,Postgraduate education,other,other,home,mother,1,2,0,yes,no,no,yes,yes,yes,yes,yes,5,3,2,1,1,very bad,0,10,11,11
+811851,GP,M,18,U,LE3,A,Tertiary education,Postgraduate education,other,other,reputation,other,1,2,0,no,no,no,yes,yes,yes,yes,yes,4,3,5,1,4,bad,9,13,14,15
+115708,GP,M,17,U,LE3,T,Primary education,Primary education,health,other,course,mother,2,1,1,no,yes,no,yes,yes,yes,yes,no,4,4,4,1,2,very good,0,9,10,10
+336584,GP,M,15,U,LE3,T,Postgraduate education,Secondary education,teacher,other,course,mother,1,1,0,no,no,no,no,yes,yes,yes,no,3,5,2,1,1,average,10,18,17,18
+182074,MS,F,15,R,GT3,T,Primary education,Secondary education,other,services,course,mother,2,1,0,no,no,no,no,yes,yes,no,no,5,1,2,1,1,very bad,3,11,13,13
+872838,GP,M,16,U,LE3,T,Primary education,Secondary education,health,services,course,mother,2,1,2,no,no,no,no,no,yes,yes,no,4,4,5,3,5,very good,0,9,8,10
+449457,GP,M,15,U,GT3,T,Postgraduate education,Postgraduate education,teacher,health,reputation,mother,1,2,0,no,yes,no,yes,yes,yes,no,no,3,2,2,1,1,very good,8,15,15,16
+469599,GP,F,18,U,GT3,T,Secondary education,Tertiary education,at_home,other,course,mother,1,3,0,no,yes,no,no,yes,yes,yes,no,4,3,3,1,2,average,0,11,12,14
+760890,GP,F,16,U,GT3,T,Primary education,Primary education,at_home,other,home,mother,2,1,0,no,yes,no,no,yes,yes,no,no,4,3,2,1,4,very good,2,12,13,13
+210078,GP,M,18,R,LE3,T,Tertiary education,Tertiary education,other,services,course,mother,1,2,0,no,yes,no,no,yes,yes,yes,yes,4,3,3,1,3,very good,8,10,9,10
+429365,GP,F,16,U,GT3,T,Tertiary education,Tertiary education,other,other,reputation,mother,3,2,0,yes,yes,no,yes,yes,yes,no,no,5,3,2,1,1,good,2,13,14,14
+867836,GP,F,17,R,GT3,T,Postgraduate education,Postgraduate education,teacher,teacher,course,mother,1,1,0,no,no,no,yes,yes,yes,yes,no,4,4,4,1,1,very good,2,15,16,17
+531839,GP,F,18,U,GT3,T,Tertiary education,Tertiary education,other,other,course,mother,2,1,1,no,no,no,no,yes,no,yes,no,4,1,1,1,1,average,14,8,7,7
+554351,GP,F,18,U,GT3,T,Tertiary education,Postgraduate education,other,other,course,mother,1,1,0,no,yes,no,yes,yes,yes,yes,yes,5,4,4,1,1,very bad,4,11,12,14
+249143,MS,F,17,R,GT3,T,Primary education,Secondary education,other,services,course,father,2,2,0,no,no,no,no,no,yes,no,no,3,2,2,1,2,average,0,13,13,13
+479989,GP,F,16,U,GT3,T,Secondary education,Secondary education,services,other,reputation,mother,2,2,0,no,no,no,yes,no,yes,yes,no,3,4,4,1,4,very good,0,13,12,14
+207450,GP,F,17,U,GT3,T,Postgraduate education,Postgraduate education,teacher,teacher,course,mother,2,3,0,no,yes,no,no,no,yes,yes,yes,4,3,3,1,2,good,4,15,14,15
+455612,MS,M,18,U,GT3,T,Tertiary education,Tertiary education,at_home,at_home,course,mother,1,2,2,no,yes,no,yes,yes,no,yes,no,4,4,5,1,3,average,9,4,8,8
+465871,GP,M,17,U,LE3,A,Tertiary education,Secondary education,teacher,services,home,mother,1,1,0,no,no,no,no,yes,yes,yes,no,4,4,4,3,4,average,18,13,13,13
+635822,GP,M,15,U,LE3,T,Secondary education,Secondary education,services,health,reputation,mother,1,4,0,no,yes,no,yes,yes,yes,yes,no,4,3,4,1,1,good,2,11,12,12
+835716,GP,M,16,U,GT3,T,Secondary education,Secondary education,other,other,course,father,1,2,0,no,no,no,no,yes,no,yes,no,4,3,5,2,4,good,0,9,10,11
+577095,GP,M,18,U,GT3,T,Postgraduate education,Tertiary education,teacher,other,course,mother,1,2,0,no,yes,no,no,no,yes,yes,no,4,3,2,1,1,average,2,10,10,11
+694319,MS,F,19,U,GT3,T,Secondary education,Tertiary education,at_home,services,course,other,1,1,1,no,no,no,no,yes,no,yes,yes,4,4,4,1,1,bad,0,9,9,10
+789944,MS,F,15,R,LE3,T,Primary education,Primary education,other,services,course,mother,2,1,1,no,yes,no,no,yes,yes,yes,yes,4,4,3,1,2,bad,4,6,7,8
+864121,MS,F,18,U,GT3,A,Primary education,Secondary education,at_home,other,course,mother,2,2,2,no,yes,no,no,yes,yes,no,no,4,3,3,1,1,very good,2,6,8,8
+749150,MS,F,19,U,GT3,T,Primary education,Primary education,at_home,services,course,mother,1,3,1,no,no,no,yes,yes,no,no,yes,5,3,1,1,1,average,6,7,9,9
+744167,GP,M,16,U,LE3,T,Postgraduate education,Tertiary education,services,other,reputation,mother,1,2,0,no,yes,no,yes,yes,yes,yes,no,5,4,2,1,2,very good,6,12,12,13
+184654,GP,F,15,U,LE3,A,Postgraduate education,Tertiary education,other,other,course,mother,1,2,0,yes,yes,yes,yes,yes,yes,yes,yes,5,2,2,1,1,very good,4,10,11,11
+215294,MS,F,16,R,GT3,T,Secondary education,Secondary education,other,other,course,mother,2,2,0,no,yes,no,yes,yes,yes,yes,no,4,4,4,1,1,very good,0,12,12,12
+544209,MS,F,18,U,GT3,T,Primary education,Secondary education,other,other,course,father,1,2,1,no,yes,no,yes,yes,yes,yes,yes,3,4,4,2,3,very good,9,9,8,8
+170313,MS,M,17,U,GT3,T,Primary education,Secondary education,other,other,course,father,1,1,1,no,yes,no,yes,yes,no,yes,yes,5,3,5,5,5,very bad,12,6,7,7
+141090,GP,F,16,U,GT3,T,Postgraduate education,Postgraduate education,services,services,reputation,mother,1,3,0,no,yes,no,yes,yes,yes,yes,no,3,2,3,1,2,bad,10,13,13,14
+428947,GP,M,15,U,GT3,T,Postgraduate education,Secondary education,teacher,other,home,mother,1,2,0,no,yes,no,no,yes,yes,no,no,4,3,3,2,2,very good,4,11,12,13
+987474,MS,M,18,R,LE3,T,Primary education,Secondary education,at_home,services,fee,father,3,1,0,no,yes,no,yes,yes,no,yes,yes,4,3,3,2,3,average,3,9,10,10
+990617,MS,F,17,U,GT3,T,Tertiary education,Tertiary education,services,services,course,mother,2,1,0,no,yes,no,no,yes,yes,yes,no,4,4,3,1,1,good,0,11,12,13
+465838,GP,F,15,U,GT3,T,Postgraduate education,Secondary education,health,services,home,mother,1,3,0,no,yes,no,yes,yes,yes,yes,yes,3,2,2,1,1,very good,0,14,14,14
+584963,MS,F,77,U,GT3,T,Postgraduate education,Secondary education,teacher,services,home,mother,1,2,0,yes,yes,no,yes,yes,yes,yes,no,5,5,5,1,3,very good,0,8,8,0
+182989,GP,F,18,U,LE3,T,Postgraduate education,Secondary education,teacher,other,course,mother,1,2,0,no,yes,no,yes,yes,yes,yes,no,4,2,2,1,1,average,0,14,17,17
+247718,GP,F,17,U,GT3,T,Secondary education,Postgraduate education,at_home,health,reputation,mother,2,2,0,no,yes,no,no,yes,yes,yes,yes,4,3,3,1,1,very bad,6,15,16,16
+518400,GP,M,16,U,GT3,T,Tertiary education,Tertiary education,at_home,other,reputation,other,3,2,1,yes,yes,no,no,no,yes,yes,no,5,3,3,1,3,bad,4,9,11,10
+840674,MS,F,15,R,GT3,T,Postgraduate education,Postgraduate education,teacher,other,course,mother,2,1,0,no,no,no,no,yes,yes,yes,yes,1,5,1,3,5,very good,0,13,14,14
+710490,GP,M,16,R,GT3,T,Secondary education,Primary education,other,other,course,mother,2,1,0,no,no,no,yes,no,yes,no,no,3,3,2,1,3,average,2,14,13,12
+177505,GP,F,18,U,GT3,T,Tertiary education,Tertiary education,at_home,other,course,father,1,2,0,no,yes,no,no,yes,yes,yes,no,4,1,4,1,1,average,8,11,12,14
+328576,GP,M,17,U,LE3,T,Postgraduate education,Postgraduate education,services,other,home,mother,1,2,0,no,yes,no,no,yes,yes,yes,yes,5,3,5,4,5,average,15,13,12,12
+203355,GP,M,15,U,GT3,T,Secondary education,Secondary education,other,other,home,mother,1,1,0,no,yes,no,no,yes,yes,yes,no,4,2,2,1,2,very good,8,11,12,12
+476836,MS,F,16,R,LE3,T,Primary education,Primary education,at_home,other,course,father,3,2,0,no,yes,no,no,yes,yes,no,no,5,3,2,1,1,very bad,0,16,17,18
+225657,GP,M,18,U,GT3,T,Secondary education,Secondary education,other,services,reputation,father,1,2,0,no,no,no,no,yes,no,yes,no,5,5,4,3,5,bad,16,8,7,8
+373538,GP,F,16,U,LE3,T,Secondary education,Secondary education,services,services,course,mother,3,2,0,no,yes,no,no,yes,yes,yes,no,4,3,3,2,3,good,0,14,13,13
+979989,GP,F,17,U,LE3,T,Tertiary education,Secondary education,other,other,reputation,mother,2,2,0,no,no,no,no,yes,yes,yes,no,4,4,4,1,3,very bad,2,14,16,15
+484681,GP,M,16,R,GT3,A,Postgraduate education,Postgraduate education,other,teacher,reputation,mother,2,3,0,no,yes,no,yes,yes,yes,yes,yes,2,4,3,1,1,very good,4,13,13,13
+572525,GP,F,15,U,LE3,A,Secondary education,Primary education,at_home,other,home,mother,2,1,0,no,yes,no,yes,yes,no,yes,yes,4,4,2,1,1,very good,0,11,10,10
+293075,GP,M,18,U,GT3,T,Secondary education,Secondary education,other,other,home,mother,2,2,3,no,yes,yes,no,yes,yes,yes,no,3,3,3,5,5,good,9,10,9,10
+814635,MS,M,18,R,GT3,T,Primary education,Tertiary education,at_home,other,course,mother,2,2,0,no,yes,yes,no,yes,yes,no,no,3,3,4,2,4,average,0,8,10,9
+731347,GP,M,17,R,GT3,T,Tertiary education,Secondary education,other,other,course,mother,2,2,2,yes,yes,no,no,yes,yes,yes,yes,4,4,4,1,4,average,4,7,6,8
+277247,MS,M,17,U,GT3,T,Tertiary education,Postgraduate education,services,other,fee,mother,1,2,1,no,yes,no,yes,no,yes,yes,yes,5,4,4,3,4,very good,8,8,9,8
+855073,MS,M,16,R,GT3,T,Primary education,Secondary education,other,other,course,father,2,2,0,no,no,no,no,yes,yes,no,no,4,3,3,1,1,very good,0,10,11,11
+164044,GP,M,16,U,GT3,T,Postgraduate education,Tertiary education,teacher,other,home,mother,1,2,0,no,yes,yes,yes,yes,yes,yes,no,3,4,3,2,3,average,4,11,10,11
+629525,MS,M,16,R,LE3,T,Postgraduate education,Primary education,other,at_home,fee,father,1,1,0,no,no,no,no,yes,yes,yes,no,4,1,2,2,1,bad,0,10,11,11
+671621,GP,F,18,U,GT3,T,Tertiary education,Tertiary education,services,services,home,mother,1,2,0,no,no,no,yes,yes,yes,yes,no,5,3,4,1,1,good,8,10,11,12
+825948,MS,F,18,R,GT3,T,Postgraduate education,Postgraduate education,other,teacher,fee,father,3,2,0,no,yes,no,no,no,yes,yes,yes,3,2,2,4,2,very good,0,7,5,0
+234415,MS,M,17,U,LE3,A,Primary education,No education,other,other,home,mother,1,1,0,no,no,no,no,yes,yes,no,yes,4,1,2,1,1,very good,4,11,11,12
+877089,GP,F,16,U,GT3,T,Tertiary education,Primary education,services,other,course,mother,1,4,0,yes,yes,no,no,yes,yes,yes,no,4,3,3,1,2,very good,0,10,9,10
+271890,GP,F,17,U,GT3,T,Tertiary education,Tertiary education,at_home,other,course,mother,1,1,0,no,yes,yes,yes,yes,yes,yes,no,4,2,5,2,5,very good,2,11,12,11
+222409,GP,M,15,R,GT3,T,Secondary education,Tertiary education,at_home,services,course,mother,1,2,0,yes,no,yes,yes,yes,yes,no,no,4,4,4,1,1,very bad,0,7,8,8
+418717,MS,F,17,U,GT3,T,Postgraduate education,Primary education,health,at_home,course,mother,1,1,0,no,yes,no,no,yes,yes,no,yes,3,2,2,1,1,very good,0,8,10,9
+997421,GP,M,15,U,LE3,A,Secondary education,Primary education,services,other,course,mother,4,1,0,no,no,no,no,yes,yes,yes,no,4,5,5,2,5,very good,0,12,11,11
+566872,GP,M,18,U,GT3,T,Postgraduate education,Secondary education,health,other,reputation,father,1,2,0,no,yes,no,yes,yes,yes,yes,yes,5,4,5,1,3,very good,4,10,12,14
+471369,GP,M,17,U,GT3,T,Postgraduate education,Tertiary education,other,other,course,mother,1,2,0,no,yes,yes,yes,yes,yes,yes,yes,5,2,3,1,1,bad,4,11,11,13
+351492,MS,F,17,R,GT3,T,Primary education,Secondary education,other,other,course,mother,1,1,0,no,no,no,yes,yes,yes,yes,no,3,5,5,1,3,very bad,4,7,8,9
+736584,GP,F,17,U,GT3,A,Postgraduate education,Tertiary education,services,services,course,mother,1,2,0,no,yes,no,no,yes,yes,yes,yes,5,2,2,1,2,very good,14,15,14,17
+241564,MS,F,15,R,LE3,T,Secondary education,Primary education,at_home,other,home,mother,2,1,0,no,no,no,no,yes,no,no,no,1,3,4,1,1,very bad,0,6,8,9
+994498,GP,M,16,U,LE3,T,Secondary education,Secondary education,services,services,reputation,father,2,1,0,no,yes,no,yes,yes,yes,yes,no,2,3,3,2,2,bad,4,12,11,11
+829650,GP,F,18,R,GT3,T,Secondary education,Secondary education,at_home,other,course,mother,2,4,0,no,no,no,yes,yes,yes,no,no,4,4,4,1,1,good,6,14,13,14
+538452,MS,F,16,U,GT3,T,Primary education,Tertiary education,at_home,other,fee,father,2,1,0,no,yes,no,no,yes,no,yes,yes,4,3,3,1,3,very good,11,10,11,11
+637833,GP,F,16,U,GT3,A,Secondary education,Secondary education,other,other,reputation,mother,1,2,0,yes,yes,no,no,yes,yes,yes,no,3,3,4,1,1,good,0,13,13,13
+940477,GP,M,18,U,LE3,T,Tertiary education,Postgraduate education,services,other,home,mother,1,2,0,no,no,no,yes,yes,yes,yes,yes,4,3,3,1,3,very good,6,16,16,17
+194476,MS,M,16,R,GT3,T,Secondary education,Primary education,other,services,reputation,mother,2,2,0,no,no,no,yes,yes,yes,yes,no,5,2,1,1,1,bad,0,8,7,0
+124300,GP,F,15,U,GT3,T,Tertiary education,Secondary education,services,other,home,mother,2,2,0,yes,yes,no,no,yes,yes,yes,no,4,3,5,1,1,bad,16,11,10,10
+764076,MS,M,15,U,GT3,T,Secondary education,Secondary education,health,other,reputation,mother,3,1,0,no,no,no,no,yes,yes,no,no,4,3,3,1,2,good,1,13,12,13
+996942,GP,F,16,U,GT3,T,Tertiary education,Tertiary education,other,services,home,mother,1,2,0,yes,yes,no,yes,yes,yes,yes,no,4,3,3,2,4,very good,4,11,11,11
+351451,MS,F,20,U,GT3,T,Tertiary education,Tertiary education,at_home,services,fee,mother,2,2,1,no,no,no,yes,yes,yes,yes,yes,3,3,4,2,4,average,8,11,9,10
+104000,MS,F,18,U,GT3,T,Secondary education,Tertiary education,at_home,services,course,father,2,1,0,no,yes,no,no,yes,yes,yes,yes,5,2,3,1,2,good,0,10,10,10
+364712,GP,M,15,U,GT3,T,Tertiary education,Postgraduate education,other,other,reputation,father,1,1,0,no,no,no,no,yes,yes,yes,no,3,4,3,1,2,good,2,14,13,14
+335362,MS,M,16,R,GT3,T,Primary education,Primary education,at_home,other,fee,father,2,1,0,no,no,no,yes,yes,yes,no,no,3,4,4,3,4,very good,6,11,11,11
+990123,MS,F,18,R,LE3,T,Postgraduate education,Postgraduate education,other,other,reputation,mother,2,3,0,no,no,no,no,yes,yes,yes,no,5,4,4,1,1,very bad,0,15,17,17
+651951,MS,F,19,R,GT3,A,Primary education,Primary education,at_home,at_home,course,other,2,2,3,no,yes,no,yes,yes,no,no,yes,3,5,4,1,4,very bad,0,8,0,0
+515192,GP,M,16,R,GT3,T,Tertiary education,Tertiary education,services,services,reputation,mother,1,1,0,no,yes,no,yes,yes,yes,yes,no,4,3,2,3,4,very good,0,11,10,10
+283062,MS,M,15,U,LE3,A,Secondary education,Secondary education,other,other,reputation,mother,3,4,0,no,yes,no,yes,yes,yes,no,no,5,4,5,2,3,very good,8,13,14,14
+983184,GP,F,20,U,GT3,T,Primary education,No education,other,other,reputation,mother,2,1,1,yes,no,no,no,yes,yes,yes,yes,5,3,1,1,1,very good,5,8,10,10
+730271,GP,F,21,U,LE3,T,Postgraduate education,Postgraduate education,other,other,reputation,other,1,3,2,no,no,yes,yes,yes,yes,yes,no,3,3,2,1,1,very good,0,9,12,12
+727769,MS,F,16,U,LE3,T,Postgraduate education,Postgraduate education,services,services,fee,father,2,1,0,no,yes,no,no,yes,yes,no,no,5,1,3,1,2,very good,1,11,11,11
+154886,GP,M,15,U,LE3,A,Tertiary education,Secondary education,services,other,home,mother,1,2,0,no,yes,no,no,yes,yes,yes,no,4,2,2,1,1,very bad,0,15,16,17
+297392,MS,F,16,U,,T,Primary education,Secondary education,other,services,course,mother,1,3,1,no,yes,no,no,yes,yes,no,no,1,3,2,1,2,good,0,10,8,8
+970910,GP,Male,15,U,LE3,T,Postgraduate education,Tertiary education,teacher,services,home,mother,1,3,0,no,yes,no,yes,yes,yes,yes,no,5,4,3,1,1,good,0,14,14,14
+384806,GP,F,15,U,GT3,T,Postgraduate education,Postgraduate education,services,at_home,course,mother,1,3,0,no,yes,no,yes,yes,yes,yes,yes,4,3,3,1,1,very good,4,13,14,15
+494070,GP,F,18,U,LE3,A,Secondary education,Postgraduate education,services,other,course,mother,2,2,1,no,yes,no,no,yes,yes,yes,no,4,3,3,1,1,average,18,10,10,10
+843974,GP,F,17,U,GT3,T,Tertiary education,Tertiary education,other,other,home,mother,1,3,0,no,no,no,yes,no,yes,no,no,3,2,3,1,1,good,2,15,12,13
+173523,MS,F,16,R,LE3,T,Primary education,Secondary education,other,other,reputation,mother,2,1,0,no,no,no,yes,yes,yes,yes,no,5,4,5,1,4,bad,0,14,14,15
+897079,MS,F,16,R,GT3,T,Secondary education,Secondary education,other,services,course,father,3,2,0,no,yes,no,yes,yes,yes,yes,no,5,3,4,1,1,bad,1,14,13,14
+138467,GP,M,18,U,LE3,T,Postgraduate education,Postgraduate education,other,other,reputation,father,1,1,0,no,yes,no,no,yes,yes,yes,no,4,2,5,3,4,very good,2,8,9,11
+370936,GP,F,16,U,GT3,T,Postgraduate education,Secondary education,services,other,course,mother,1,2,0,no,yes,yes,no,yes,yes,yes,no,4,2,3,1,1,very good,2,16,15,16
+532315,GP,F,16,R,GT3,T,Tertiary education,Tertiary education,services,other,reputation,father,1,3,0,yes,yes,no,yes,yes,yes,yes,no,4,1,2,1,1,bad,4,11,11,11
+231373,GP,F,18,U,GT3,T,Tertiary education,Secondary education,services,other,home,mother,1,2,0,no,yes,no,yes,no,yes,yes,yes,3,1,2,1,2,very bad,4,10,13,13
+354079,MS,F,16,U,LE3,A,Secondary education,Secondary education,at_home,other,reputation,mother,2,4,0,no,no,no,yes,no,no,no,yes,1,2,1,1,1,very bad,4,10,9,11
+559451,MS,F,15,R,GT3,T,Primary education,Primary education,at_home,services,fee,mother,1,1,1,no,yes,no,no,yes,yes,no,yes,4,1,3,1,1,bad,6,10,10,10
+937291,GP,F,17,R,LE3,A,Primary education,Postgraduate education,other,other,course,other,4,1,1,no,yes,no,no,yes,yes,yes,no,5,5,4,1,1,very good,14,9,9,8
+478496,MS,F,17,R,GT3,T,Secondary education,Secondary education,other,other,fee,mother,2,2,0,yes,no,yes,no,yes,yes,no,no,5,1,3,1,1,very good,0,11,9,11
+758271,GP,M,17,R,GT3,T,Secondary education,Secondary education,other,services,fee,mother,2,1,0,no,no,no,no,no,no,no,no,5,2,2,1,1,good,0,9,10,10
+373109,GP,F,15,U,GT3,A,Tertiary education,Tertiary education,services,services,home,mother,1,2,0,no,no,no,no,no,yes,no,yes,1,3,2,2,3,very bad,24,9,8,9
+580671,GP,F,17,U,LE3,A,Postgraduate education,Secondary education,teacher,other,course,mother,1,2,0,no,yes,no,yes,yes,yes,no,no,4,3,2,1,1,good,4,15,14,14
+821747,MS,F,17,U,LE3,T,Postgraduate education,Postgraduate education,at_home,at_home,course,mother,1,2,0,no,yes,no,yes,yes,yes,yes,yes,2,3,4,1,1,very bad,4,15,14,15
+743409,GP,F,17,R,GT3,T,Tertiary education,Postgraduate education,at_home,services,course,father,1,3,0,no,yes,no,yes,no,yes,yes,no,4,3,4,2,5,very good,2,15,15,17
+547556,MS,F,16,U,GT3,A,Tertiary education,Secondary education,services,at_home,course,mother,2,2,2,no,yes,no,yes,yes,yes,no,yes,2,5,5,1,1,very bad,8,5,5,7
+249503,GP,F,15,R,GT3,T,Tertiary education,Postgraduate education,services,health,course,mother,1,3,0,yes,yes,no,yes,yes,yes,yes,no,4,3,2,1,1,very good,2,11,12,12
+401648,GP,F,19,U,GT3,T,No education,Primary education,at_home,other,course,other,1,2,2,no,yes,no,no,no,no,no,no,3,4,2,1,1,very good,0,9,10,11
+787995,GP,M,17,U,LE3,A,Tertiary education,Secondary education,other,other,reputation,mother,1,2,0,no,yes,no,no,yes,yes,yes,no,4,4,4,1,2,very good,10,16,18,18
+757162,GP,M,17,U,GT3,T,Tertiary education,Primary education,services,other,fee,mother,1,2,0,no,no,no,yes,yes,yes,yes,yes,5,4,4,3,4,very good,0,11,11,14
+981691,GP,F,16,U,GT3,T,Tertiary education,Secondary education,other,other,reputation,mother,1,2,0,no,yes,no,no,yes,yes,yes,no,1,2,2,1,2,very bad,8,14,15,16
+803714,GP,M,20,U,GT3,A,Tertiary education,Secondary education,services,other,course,other,1,1,2,no,no,no,yes,yes,yes,no,no,5,5,3,1,1,very good,0,14,15,15
+748307,MS,F,15,R,GT3,T,Tertiary education,Tertiary education,at_home,other,course,mother,2,1,0,no,yes,no,no,yes,yes,yes,no,5,4,4,2,3,very good,4,10,10,11
+701661,GP,M,16,U,LE3,T,Primary education,Primary education,services,other,course,mother,1,2,2,no,no,no,no,yes,yes,no,yes,4,4,4,1,3,very good,0,10,10,10
+371967,MS,F,18,U,GT3,T,Primary education,Primary education,at_home,services,course,mother,3,2,1,no,no,no,no,yes,no,no,no,4,4,2,1,2,bad,2,9,10,10
+453824,MS,F,17,R,GT3,T,Primary education,Primary education,other,services,reputation,mother,3,1,1,no,yes,no,no,yes,yes,yes,yes,5,2,1,1,2,very bad,0,8,8,9
+511927,GP,M,19,U,GT3,T,Secondary education,Primary education,other,other,reputation,mother,1,1,0,no,no,no,no,yes,yes,yes,no,5,3,4,1,4,good,10,7,11,11
+965264,MS,M,20,R,GT3,T,Primary education,Primary education,other,other,course,other,2,1,1,no,yes,no,no,yes,no,yes,yes,4,4,3,2,4,good,12,8,11,10
+747972,GP,F,15,U,GT3,T,Postgraduate education,Postgraduate education,teacher,teacher,course,mother,2,1,0,no,no,no,yes,yes,yes,yes,no,4,3,2,1,1,very good,6,13,14,14
+457429,MS,F,16,U,GT3,T,Primary education,Primary education,other,other,course,other,1,4,0,yes,yes,no,yes,yes,yes,yes,no,2,2,1,1,1,very good,0,14,14,14
+601157,GP,F,17,U,GT3,T,Postgraduate education,Secondary education,other,other,reputation,mother,2,3,0,no,yes,no,no,yes,yes,yes,no,4,3,3,1,1,average,0,16,16,16
+786976,GP,M,17,U,LE3,A,Postgraduate education,Primary education,services,other,home,mother,2,1,0,no,no,no,yes,yes,yes,yes,yes,4,5,4,2,4,very good,22,11,11,10
+319963,MS,M,16,U,GT3,T,Postgraduate education,Postgraduate education,other,teacher,course,father,1,2,0,no,yes,no,yes,yes,yes,no,yes,4,3,1,1,1,average,0,13,12,13
+748663,GP,Male,16,U,GT3,T,Postgraduate education,Postgraduate education,health,other,course,mother,1,1,0,no,yes,no,yes,yes,yes,yes,no,3,4,4,1,4,very good,4,12,13,13
+763165,MS,F,17,U,GT3,T,Postgraduate education,Postgraduate education,health,health,course,father,1,2,0,no,yes,no,no,yes,yes,yes,no,5,2,5,1,1,very good,0,13,15,16
+664685,GP,M,16,R,GT3,T,Postgraduate education,Tertiary education,services,other,reputation,mother,2,1,0,yes,yes,yes,yes,no,yes,yes,no,3,3,3,1,1,good,6,9,11,11
+938688,GP,F,18,U,GT3,A,Tertiary education,Secondary education,other,services,course,other,1,3,0,no,yes,no,yes,no,yes,yes,yes,4,3,3,5,1,very good,10,12,11,11
+414877,GP,F,18,R,GT3,T,Tertiary education,Primary education,other,other,reputation,mother,1,2,0,no,no,no,yes,yes,yes,yes,yes,5,3,3,1,1,good,4,8,8,8
+392890,GP,F,17,R,GT3,A,Tertiary education,Secondary education,other,other,home,mother,1,2,0,no,yes,no,no,yes,yes,yes,no,4,3,3,2,3,bad,0,14,14,16
+276089,MS,F,16,R,GT3,T,Secondary education,Secondary education,other,other,course,mother,3,2,0,no,yes,no,no,yes,yes,yes,no,4,4,5,1,1,good,4,9,10,11
+882038,GP,F,16,U,GT3,T,Secondary education,Primary education,other,other,course,mother,1,2,0,no,yes,no,no,yes,yes,no,yes,4,3,5,1,1,very good,0,13,12,12
+580047,GP,F,18,U,GT3,T,Secondary education,Secondary education,other,other,course,mother,1,1,0,no,yes,no,yes,yes,yes,yes,yes,4,3,5,2,4,very good,2,10,10,10
+757409,GP,M,18,U,GT3,T,Primary education,Secondary education,at_home,other,home,other,2,1,0,no,no,no,no,no,no,yes,no,3,4,4,2,4,good,10,10,10,11
+658986,GP,M,22,U,GT3,T,Tertiary education,Primary education,services,services,fee,mother,1,1,3,no,no,no,no,no,no,yes,yes,5,4,5,5,5,very bad,12,7,8,5
+659042,GP,F,18,U,LE3,T,Primary education,Primary education,other,at_home,home,mother,1,3,0,no,yes,no,no,no,yes,no,no,4,4,3,2,3,average,4,11,12,14
+452228,GP,F,18,U,LE3,T,Secondary education,Secondary education,at_home,services,course,mother,1,2,1,no,yes,no,no,no,yes,yes,yes,5,3,1,1,1,very good,16,9,8,10
+850020,GP,M,18,R,GT3,T,Postgraduate education,Tertiary education,teacher,services,course,mother,1,3,0,no,no,no,no,yes,yes,yes,yes,5,3,2,1,2,good,4,15,14,17
+233767,GP,F,16,U,LE3,T,Secondary education,Postgraduate education,other,health,course,father,2,2,0,no,yes,no,yes,yes,yes,yes,yes,4,2,2,1,2,very good,2,14,12,13
+298286,GP,F,16,U,GT3,T,Postgraduate education,Postgraduate education,health,health,reputation,mother,1,2,0,no,yes,no,no,yes,yes,yes,yes,4,4,2,1,1,average,0,16,16,17
+252906,GP,F,17,U,GT3,A,Tertiary education,Tertiary education,health,other,reputation,mother,1,2,0,no,yes,no,no,no,yes,yes,yes,3,3,3,1,3,average,10,12,13,14
+613758,MS,F,17,R,GT3,T,Secondary education,Tertiary education,other,other,course,mother,2,1,0,no,yes,no,no,yes,yes,yes,no,5,5,5,1,3,average,2,10,11,12
+473616,GP,M,18,U,LE3,T,Postgraduate education,Tertiary education,teacher,services,course,mother,2,1,0,no,no,no,yes,yes,yes,yes,no,4,2,3,1,2,very bad,0,10,10,10
+881239,GP,M,17,U,GT3,T,Postgraduate education,Postgraduate education,teacher,teacher,reputation,mother,1,2,0,yes,yes,no,yes,yes,yes,yes,yes,4,5,5,1,3,bad,0,13,13,13
+278274,GP,F,19,U,GT3,T,Postgraduate education,Postgraduate education,teacher,other,home,other,1,1,1,no,yes,no,no,yes,yes,yes,yes,3,2,5,4,4,very good,5,9,10,11
+489957,MS,M,16,U,LE3,T,Postgraduate education,Tertiary education,other,other,course,father,1,1,0,no,no,no,yes,yes,yes,yes,no,4,2,5,1,5,very good,8,14,12,13
+766326,MS,F,18,R,LE3,A,Tertiary education,Secondary education,other,other,course,other,2,3,2,no,yes,no,no,no,no,no,yes,3,3,2,1,1,bad,6,7,9,10
+844840,MS,F,16,R,LE3,T,Secondary education,Secondary education,other,other,course,mother,1,3,0,no,yes,no,no,no,yes,no,yes,4,3,3,2,2,very good,2,11,11,11
+244356,MS,M,18,R,GT3,T,Tertiary education,Secondary education,services,other,course,mother,1,1,1,no,no,no,no,yes,no,yes,no,2,3,1,2,2,very good,0,4,0,0
+109435,MS,M,19,U,GT3,T,Secondary education,Primary education,at_home,other,course,other,2,1,3,no,no,no,yes,no,no,yes,yes,4,4,3,1,3,very good,4,8,9,9
+365517,MS,M,18,R,GT3,T,Postgraduate education,Secondary education,other,other,home,father,2,1,1,no,no,yes,no,yes,yes,no,no,5,4,3,4,3,average,0,7,7,0
+236330,GP,M,15,U,GT3,T,Tertiary education,Postgraduate education,services,services,home,father,1,1,0,yes,no,no,no,yes,yes,yes,no,5,5,5,3,2,very good,2,9,9,9
+271836,GP,F,17,U,GT3,T,Postgraduate education,Tertiary education,health,other,reputation,mother,1,3,0,no,yes,no,yes,yes,yes,yes,yes,4,4,3,1,3,good,0,11,12,13
+821772,MS,F,17,U,GT3,A,Primary education,No education,other,other,fee,mother,2,2,0,no,no,no,no,yes,yes,yes,yes,4,4,5,1,1,good,1,11,9,10
+805660,MS,F,16,U,GT3,T,Tertiary education,Tertiary education,other,other,reputation,mother,1,1,0,no,no,no,yes,yes,no,yes,yes,4,5,4,1,1,good,0,14,13,13
+850216,GP,F,17,R,GT3,T,Postgraduate education,Tertiary education,teacher,other,reputation,mother,2,3,0,no,yes,no,yes,yes,yes,yes,yes,4,4,2,1,1,good,0,11,12,12
+898615,GP,F,18,U,LE3,T,Postgraduate education,Tertiary education,other,other,home,other,2,2,0,no,yes,no,no,yes,yes,yes,yes,4,4,5,1,2,bad,0,13,14,14
+665894,GP,F,15,U,GT3,T,Postgraduate education,Postgraduate education,services,services,course,mother,1,1,0,yes,yes,no,no,yes,yes,yes,no,3,3,4,2,3,very good,0,13,12,12
+599046,GP,F,17,U,GT3,T,Tertiary education,Postgraduate education,at_home,services,home,mother,1,3,1,no,yes,yes,no,yes,yes,yes,yes,4,4,3,3,4,very good,14,8,9,8
+113986,GP,M,16,U,GT3,T,Secondary education,Tertiary education,other,other,course,mother,2,3,0,no,yes,no,no,no,yes,yes,yes,3,2,3,2,2,very bad,4,13,12,13
+555968,MS,F,18,R,LE3,T,Secondary education,Secondary education,services,services,course,mother,1,2,1,no,yes,no,yes,yes,yes,yes,no,2,3,3,1,2,good,3,7,6,8
+311810,MS,F,18,U,LE3,T,Primary education,Primary education,other,at_home,reputation,mother,2,2,0,yes,no,no,no,yes,yes,no,no,2,3,5,1,4,average,8,9,8,10
+264899,GP,M,17,U,LE3,T,Postgraduate education,Postgraduate education,teacher,other,reputation,mother,1,2,0,no,yes,no,yes,yes,yes,yes,no,4,4,4,1,3,very good,0,11,9,10
+595972,MS,F,18,U,GT3,T,Primary education,Primary education,other,other,course,mother,3,2,2,no,no,no,yes,yes,yes,no,yes,3,4,4,2,2,very good,3,7,8,7
+465890,MS,F,15,R,GT3,T,Tertiary education,Tertiary education,other,services,course,father,2,1,0,no,no,no,no,no,yes,yes,no,4,1,3,1,1,good,0,14,16,16
+291962,MS,F,18,U,GT3,T,Tertiary education,Tertiary education,services,services,fee,mother,2,2,0,no,yes,no,no,yes,yes,yes,yes,4,3,2,1,3,average,6,13,12,13
+679879,GP,M,16,U,GT3,T,Postgraduate education,Postgraduate education,services,services,fee,mother,1,1,0,yes,yes,no,yes,yes,yes,yes,no,4,5,5,5,5,good,12,9,9,8
+712210,MS,F,15,R,LE3,T,Primary education,Primary education,at_home,other,course,mother,2,1,0,no,yes,no,no,yes,no,no,yes,5,2,1,1,3,good,0,9,10,9
+216381,GP,F,17,R,GT3,T,Secondary education,Postgraduate education,at_home,other,course,father,1,3,0,no,yes,no,no,yes,yes,yes,yes,4,4,3,1,1,very good,0,15,15,15
+455754,MS,F,17,U,GT3,T,Secondary education,Secondary education,other,at_home,home,mother,1,3,0,no,no,no,yes,yes,yes,no,yes,3,4,3,1,1,average,8,10,11,12
+851102,GP,F,18,R,GT3,T,Secondary education,Secondary education,other,other,home,mother,1,2,0,yes,no,no,no,yes,yes,no,no,3,2,3,1,1,very good,4,11,11,13
+819094,GP,M,17,U,LE3,T,Postgraduate education,Tertiary education,health,other,course,mother,2,2,0,no,no,no,yes,yes,yes,yes,yes,2,5,5,1,4,very good,8,15,15,15
+431236,GP,F,15,U,LE3,T,Postgraduate education,Secondary education,health,other,fee,mother,1,2,0,no,yes,no,no,yes,yes,yes,no,4,3,3,1,1,very good,0,16,14,16
+136631,MS,M,17,U,GT3,T,Primary education,Primary education,other,other,home,mother,1,2,0,no,no,yes,no,no,yes,yes,no,4,4,3,2,4,very good,4,8,9,9
+155609,MS,M,17,U,GT3,T,Tertiary education,Tertiary education,services,at_home,course,mother,2,4,1,no,yes,yes,yes,yes,yes,no,no,5,4,5,3,4,very good,0,10,11,10
+616588,GP,F,16,U,GT3,T,Secondary education,Secondary education,at_home,other,home,mother,1,2,1,yes,no,no,yes,yes,yes,yes,no,3,1,2,1,1,very good,12,8,10,10
+511357,GP,M,17,U,GT3,T,Tertiary education,Secondary education,services,services,course,mother,2,1,3,no,yes,no,yes,no,no,no,no,4,5,2,1,1,bad,10,8,7,8
+151991,MS,F,18,R,GT3,T,Secondary education,Secondary education,services,other,home,mother,2,3,0,no,no,no,no,yes,yes,yes,yes,4,2,1,1,1,good,5,14,14,15
+737717,MS,M,18,R,GT3,T,Primary education,No education,at_home,at_home,course,other,3,1,1,yes,yes,no,no,yes,yes,no,no,4,3,2,1,1,good,0,12,12,13
+474710,MS,M,17,U,GT3,T,Tertiary education,Tertiary education,services,services,home,mother,1,1,0,no,yes,no,yes,yes,yes,yes,no,4,1,4,5,5,average,8,7,10,9
+322866,MS,M,18,U,LE3,T,Postgraduate education,Postgraduate education,at_home,health,home,mother,1,4,0,no,yes,no,yes,yes,no,yes,yes,5,5,5,5,5,very good,2,5,6,6
+158871,GP,F,17,R,LE3,T,Secondary education,Secondary education,services,services,course,mother,1,3,0,no,yes,no,yes,yes,yes,yes,no,3,3,2,2,2,average,0,11,11,10
+710269,GP,M,17,R,GT3,T,Primary education,Secondary education,at_home,at_home,home,mother,1,2,0,no,yes,no,yes,no,yes,no,yes,3,5,2,2,2,very bad,2,16,17,18
+250262,MS,F,15,R,GT3,T,Primary education,Primary education,at_home,at_home,course,father,3,2,0,no,yes,no,no,yes,yes,no,no,4,2,1,1,2,bad,0,13,14,14
+124538,GP,M,16,U,GT3,T,Postgraduate education,Postgraduate education,services,services,course,mother,1,3,0,no,yes,no,yes,yes,yes,yes,no,5,3,3,1,3,very good,0,15,13,13
+869598,GP,M,16,R,GT3,T,Secondary education,Secondary education,at_home,other,course,mother,3,1,0,no,no,no,no,no,yes,no,no,4,2,2,1,2,average,4,12,10,11
+547600,GP,F,17,U,GT3,T,Secondary education,Secondary education,at_home,at_home,course,mother,1,3,0,no,yes,no,yes,yes,yes,yes,no,4,3,3,1,1,good,0,12,12,13
+399648,GP,M,18,R,LE3,A,Tertiary education,Postgraduate education,other,other,reputation,mother,2,2,0,no,yes,no,yes,yes,yes,yes,no,4,2,5,3,4,very bad,6,15,16,16
+289407,MS,F,18,R,GT3,T,Primary education,Primary education,at_home,other,fee,mother,1,2,1,no,yes,no,no,yes,yes,yes,yes,4,3,2,1,1,very good,9,7,7,7
+745914,GP,Male,16,U,LE3,T,Secondary education,Primary education,at_home,other,course,mother,1,1,1,no,no,no,yes,yes,yes,no,yes,4,4,4,3,5,very good,6,9,10,10
+408987,GP,F,17,U,LE3,T,Secondary education,Secondary education,services,other,course,mother,2,2,0,yes,yes,no,no,yes,yes,yes,yes,4,4,4,2,3,very good,6,12,12,12
+950937,GP,M,16,U,GT3,T,Secondary education,Primary education,at_home,other,course,mother,4,1,0,no,no,no,no,yes,yes,no,no,3,2,1,1,1,bad,4,9,9,11
+224123,GP,F,17,U,GT3,T,Secondary education,Secondary education,services,services,reputation,mother,1,2,0,no,yes,no,yes,yes,yes,yes,no,4,3,4,1,3,good,0,13,17,17
+178781,MS,M,18,R,GT3,T,Tertiary education,Secondary education,other,other,course,mother,2,1,0,no,yes,no,no,no,yes,yes,no,2,5,5,5,5,very good,8,9,10,11
+626981,GP,F,17,U,LE3,T,Tertiary education,Tertiary education,other,other,reputation,mother,1,2,0,no,yes,no,yes,yes,yes,yes,yes,5,3,3,2,3,very bad,32,14,13,14
+907789,GP,F,18,U,LE3,T,Postgraduate education,Tertiary education,health,services,course,mother,2,1,0,no,yes,no,no,yes,yes,yes,no,3,2,4,1,4,very bad,8,12,12,15
+357426,GP,F,17,U,GT3,T,Tertiary education,Secondary education,other,other,course,father,1,2,0,no,no,no,yes,yes,yes,no,no,5,4,2,1,1,average,4,14,14,15
+218451,GP,F,17,U,GT3,T,Secondary education,Tertiary education,at_home,other,home,father,2,1,0,no,yes,no,no,yes,yes,no,no,3,3,3,1,4,average,4,12,13,13
+977284,MS,M,16,U,GT3,T,Secondary education,Primary education,health,services,fee,mother,2,2,0,no,no,no,no,no,yes,yes,yes,4,2,2,1,4,very good,2,9,7,8
+937646,GP,M,16,U,GT3,T,Postgraduate education,Postgraduate education,teacher,teacher,course,father,1,2,0,no,yes,no,yes,yes,yes,yes,no,5,4,4,1,2,very good,6,16,14,14
+220151,GP,F,15,U,GT3,T,Primary education,Secondary education,at_home,services,course,mother,1,2,0,no,no,no,no,no,yes,yes,no,3,2,3,1,2,very bad,0,14,14,14
+373237,MS,M,15,R,GT3,T,Primary education,Primary education,other,other,course,mother,4,2,0,no,yes,no,yes,yes,yes,no,yes,5,4,5,2,4,good,8,7,9,9
+122671,GP,M,18,U,GT3,T,Tertiary education,Secondary education,services,other,course,mother,2,1,0,no,no,no,no,yes,no,yes,no,4,4,5,2,4,very good,8,7,8,7
+710704,GP,F,18,U,GT3,T,Primary education,Primary education,other,other,home,mother,2,3,0,no,no,no,yes,yes,yes,yes,no,4,5,5,1,2,bad,0,14,14,14
+381974,GP,M,19,R,GT3,T,Tertiary education,Secondary education,at_home,services,home,other,1,1,0,no,yes,no,no,no,yes,no,yes,5,3,4,2,2,very good,0,11,10,10
+890180,GP,F,19,U,GT3,T,Tertiary education,Tertiary education,other,other,reputation,other,1,4,0,no,yes,no,yes,yes,yes,yes,no,4,3,3,1,2,average,4,12,12,12
+718992,MS,F,17,U,LE3,A,Tertiary education,Secondary education,services,other,reputation,mother,2,2,0,no,no,no,no,yes,yes,no,yes,1,2,3,1,2,very good,0,15,14,15
+834994,MS,M,16,U,LE3,T,Secondary education,Secondary education,services,services,fee,mother,4,3,0,no,no,no,no,yes,yes,no,no,5,1,3,2,2,average,0,10,9,10
+320984,MS,F,16,R,LE3,T,Secondary education,Secondary education,other,other,home,father,3,1,0,no,yes,no,yes,yes,yes,no,yes,4,3,2,1,1,good,0,14,14,16
+891971,GP,F,17,R,GT3,T,Postgraduate education,Postgraduate education,services,services,reputation,mother,2,3,0,no,yes,no,yes,yes,yes,yes,no,5,3,4,1,1,very good,0,7,7,8
+213632,MS,F,17,R,GT3,T,Primary education,Primary education,at_home,other,reputation,mother,2,1,0,no,yes,no,yes,no,yes,yes,yes,4,4,5,1,2,very good,0,11,11,11
+208940,MS,M,17,U,GT3,T,Secondary education,Tertiary education,other,services,home,father,2,2,0,no,no,no,yes,yes,yes,yes,no,4,4,3,1,1,average,4,14,15,16
+750419,MS,M,18,U,LE3,T,Primary education,Secondary education,at_home,services,home,mother,2,1,0,no,yes,no,no,no,yes,no,no,4,1,4,5,5,very bad,8,10,11,11
+120056,MS,F,17,U,GT3,A,Primary education,Primary education,at_home,at_home,fee,mother,1,2,0,no,no,no,yes,yes,yes,yes,yes,4,5,5,1,2,average,2,11,10,11
+415139,GP,F,15,U,GT3,T,Postgraduate education,Postgraduate education,services,services,reputation,father,2,2,0,no,no,no,no,yes,yes,yes,yes,4,4,4,2,3,very good,4,12,11,12
+582690,GP,M,18,U,LE3,T,Secondary education,Primary education,at_home,other,course,mother,4,2,0,yes,yes,no,yes,yes,yes,yes,yes,4,3,2,4,5,average,2,9,10,11
+284064,GP,F,15,U,GT3,T,Primary education,Secondary education,at_home,other,course,mother,1,2,0,no,yes,no,no,no,yes,yes,no,4,3,2,1,1,very good,6,13,12,13
+186672,MS,F,16,R,LE3,T,Tertiary education,Postgraduate education,at_home,other,fee,mother,3,2,0,no,yes,no,no,no,yes,no,no,4,2,1,1,1,bad,2,7,9,8
+256730,GP,F,15,U,GT3,T,Secondary education,Tertiary education,other,other,fee,father,2,1,0,no,yes,no,yes,yes,yes,no,no,3,5,1,1,1,very good,4,11,11,11
+353618,GP,F,18,R,GT3,T,Primary education,Primary education,at_home,other,course,mother,3,1,3,no,yes,no,yes,no,yes,no,no,5,2,5,1,5,good,6,11,10,11
+287628,MS,M,16,U,LE3,A,Secondary education,Secondary education,other,services,course,father,2,2,0,no,yes,no,no,no,yes,yes,yes,4,1,2,2,2,very good,0,12,13,13
+953049,MS,F,16,U,GT3,T,Postgraduate education,Postgraduate education,teacher,services,course,mother,2,3,0,no,yes,no,no,yes,yes,yes,yes,5,3,5,1,4,very good,1,10,11,12
+497827,MS,F,18,U,GT3,T,Primary education,Secondary education,at_home,at_home,course,father,2,2,0,no,yes,no,no,yes,no,no,no,4,1,1,1,1,good,0,11,11,12
+587879,GP,F,15,R,GT3,T,Primary education,Primary education,at_home,other,home,mother,2,4,0,yes,yes,yes,yes,yes,yes,yes,no,3,1,2,1,1,very bad,4,13,13,13
+165318,GP,F,17,U,GT3,T,Tertiary education,Secondary education,other,other,course,mother,1,2,0,no,no,no,yes,no,yes,yes,no,5,3,4,1,3,average,2,17,18,17
+679036,MS,F,15,R,GT3,T,Primary education,Primary education,at_home,other,home,father,2,2,0,no,yes,no,yes,yes,yes,yes,no,4,3,3,1,1,bad,1,11,10,11
+533374,MS,M,18,R,GT3,T,Postgraduate education,Postgraduate education,at_home,services,fee,mother,3,1,0,no,yes,yes,yes,yes,yes,yes,yes,2,5,5,1,1,very bad,5,12,13,14
+508923,GP,M,17,U,GT3,T,Primary education,Secondary education,at_home,services,fee,other,2,2,0,no,no,no,yes,no,yes,yes,no,4,4,4,4,5,very good,16,10,11,12
+499111,GP,F,17,U,GT3,T,Tertiary education,Secondary education,other,other,home,mother,1,2,0,no,yes,no,no,yes,yes,yes,yes,4,3,2,2,3,bad,0,12,13,15
+460032,GP,F,17,U,GT3,A,Secondary education,Secondary education,at_home,at_home,home,father,1,2,0,no,yes,no,no,yes,yes,yes,yes,3,3,-1,1,2,good,18,10,12,14
+850201,MS,M,17,R,GT3,T,Postgraduate education,Postgraduate education,health,other,course,father,3,1,3,no,no,no,yes,yes,yes,yes,yes,3,3,3,1,3,very good,2,9,9,8
+679304,GP,F,17,R,GT3,T,Secondary education,Secondary education,other,other,reputation,mother,1,1,0,no,yes,no,no,yes,yes,yes,no,5,3,2,1,2,average,21,13,13,13
+359178,GP,F,16,U,GT3,T,Tertiary education,Tertiary education,other,other,home,father,1,2,0,no,yes,no,no,yes,yes,no,no,4,3,2,1,2,very good,0,11,13,13
+675581,MS,F,18,R,GT3,A,Postgraduate education,Tertiary education,services,services,course,mother,1,1,0,no,yes,no,no,yes,yes,yes,no,5,4,4,3,4,bad,8,10,11,10
+453531,GP,F,16,U,GT3,T,Postgraduate education,Postgraduate education,other,other,reputation,mother,1,1,0,no,no,no,yes,no,yes,yes,no,5,3,4,1,2,very bad,4,12,13,13
+996048,GP,F,17,U,GT3,T,Tertiary education,Primary education,other,at_home,home,mother,1,1,1,no,yes,yes,no,yes,yes,yes,yes,4,1,2,1,1,average,6,10,13,13
+284078,MS,M,17,R,LE3,T,Secondary education,Secondary education,services,services,fee,mother,3,4,1,no,yes,no,no,yes,yes,no,no,1,3,5,3,5,average,2,10,8,9
+419030,GP,M,16,U,GT3,T,Postgraduate education,Tertiary education,health,services,reputation,mother,1,4,0,no,no,no,yes,yes,yes,yes,no,4,2,2,1,1,bad,2,17,17,17
+358795,GP,M,15,R,GT3,T,Postgraduate education,Tertiary education,teacher,at_home,course,mother,1,2,0,no,yes,no,yes,yes,yes,yes,yes,4,5,2,1,1,very good,0,13,14,15
+300235,GP,M,16,U,GT3,T,Primary education,Secondary education,services,services,fee,mother,1,1,0,no,yes,no,yes,yes,yes,yes,yes,3,3,3,1,2,average,0,10,9,11
+234633,GP,F,17,U,LE3,T,Secondary education,Secondary education,other,other,course,father,1,1,0,no,yes,no,no,yes,yes,yes,yes,3,4,4,1,3,very good,2,13,12,12
+335796,GP,M,15,U,GT3,T,Postgraduate education,Secondary education,health,services,fee,mother,1,1,0,no,no,no,no,yes,yes,yes,no,2,2,4,2,4,very bad,0,11,11,11
+466326,MS,F,18,U,GT3,T,Tertiary education,Tertiary education,services,services,course,father,1,2,0,no,yes,no,no,yes,yes,no,yes,5,3,4,1,1,very good,0,10,10,10
+161087,GP,F,17,U,GT3,T,Postgraduate education,Tertiary education,other,other,reputation,mother,1,2,0,no,no,no,no,yes,yes,yes,yes,3,4,5,2,4,very bad,16,11,9,10
+330229,MS,M,18,R,GT3,T,Primary education,Primary education,other,other,home,mother,2,1,1,no,no,no,yes,yes,no,yes,no,4,4,3,3,4,good,0,8,9,10
+930496,GP,M,17,U,GT3,T,Tertiary education,Tertiary education,other,services,reputation,mother,1,1,0,no,no,no,yes,no,yes,yes,no,4,3,5,3,5,very good,0,17,18,17
+978338,GP,F,18,U,LE3,A,Secondary education,Primary education,other,other,course,mother,1,2,0,no,yes,no,no,no,yes,yes,yes,4,3,4,1,3,very good,2,12,12,13
+920260,GP,M,18,R,GT3,T,Secondary education,Tertiary education,other,services,reputation,father,1,1,0,no,no,no,no,yes,yes,yes,no,3,1,3,4,5,good,13,13,14,14
+962645,GP,F,17,U,GT3,T,Tertiary education,Postgraduate education,services,other,course,mother,1,3,0,no,no,no,no,yes,yes,yes,no,4,4,5,1,3,very good,8,11,13,14
+327897,MS,F,16,U,GT3,T,Secondary education,Primary education,other,services,course,mother,1,2,0,no,yes,no,yes,yes,yes,yes,no,5,3,3,1,1,very bad,0,14,13,14
+807611,GP,M,15,R,GT3,T,Tertiary education,Postgraduate education,at_home,teacher,course,mother,4,2,0,no,yes,no,no,yes,yes,no,yes,5,3,3,1,1,very good,2,12,11,11
+305041,GP,F,16,U,LE3,T,Primary education,Secondary education,other,services,reputation,father,1,2,0,yes,no,no,yes,yes,yes,yes,no,4,4,3,1,1,very bad,0,13,13,10
+348710,MS,F,16,R,GT3,T,Secondary education,Secondary education,at_home,other,course,mother,2,2,1,no,yes,no,yes,no,yes,no,no,4,4,4,2,3,very good,2,12,11,12
+788519,GP,M,16,R,GT3,T,Postgraduate education,Postgraduate education,teacher,teacher,course,mother,1,1,0,no,no,no,yes,yes,yes,yes,no,3,5,-5,2,5,good,8,14,14,15
+599522,MS,F,18,R,GT3,T,Primary education,Primary education,other,other,home,mother,4,3,0,no,no,no,no,yes,yes,yes,no,4,3,2,1,2,good,4,10,11,12
+333841,MS,F,16,U,LE3,T,Primary education,Primary education,at_home,other,fee,mother,3,2,0,no,yes,no,no,yes,yes,yes,no,4,3,2,1,3,very good,6,6,8,8
+831912,GP,F,15,U,LE3,T,Postgraduate education,Tertiary education,services,services,reputation,father,1,2,0,yes,no,no,yes,yes,yes,yes,yes,4,4,4,2,4,bad,0,13,12,12
+291335,GP,M,15,U,GT3,A,Secondary education,Secondary education,other,other,home,other,1,3,0,no,yes,no,no,yes,yes,yes,yes,4,5,2,1,1,average,0,14,14,15
+239182,GP,F,15,U,GT3,T,Primary education,Primary education,other,services,course,father,1,2,0,no,yes,no,no,yes,yes,yes,no,4,4,2,1,2,very good,0,12,12,12
+627035,GP,F,16,U,LE3,T,Secondary education,Secondary education,other,other,home,mother,2,2,0,no,yes,no,yes,no,yes,yes,yes,3,3,3,1,2,average,16,11,11,10
+152921,MS,F,16,R,GT3,A,Secondary education,Secondary education,health,other,course,mother,1,2,0,no,no,no,no,no,yes,no,yes,3,3,2,1,1,average,2,8,10,10
+356687,GP,M,17,R,GT3,T,Secondary education,Secondary education,services,other,course,mother,4,1,0,no,yes,no,no,yes,yes,yes,no,4,4,5,5,5,good,2,11,10,10
+424767,GP,F,16,U,GT3,T,Primary education,Tertiary education,at_home,services,home,mother,1,2,0,no,no,no,yes,no,yes,yes,yes,4,3,5,1,1,average,0,14,13,13
+227948,GP,F,17,U,GT3,T,Primary education,Primary education,other,other,course,mother,1,2,0,no,yes,no,no,no,yes,no,no,4,4,4,1,3,very bad,0,14,15,15
+628178,GP,M,15,U,LE3,A,Postgraduate education,Secondary education,health,health,fee,father,2,1,0,no,no,no,no,yes,yes,no,no,5,5,5,3,4,very good,4,10,9,9
+690978,GP,F,17,U,GT3,T,Postgraduate education,Tertiary education,health,services,reputation,mother,1,3,0,no,yes,no,no,yes,yes,yes,no,4,2,2,1,2,average,0,17,18,18
+862002,GP,M,19,U,LE3,A,Postgraduate education,Tertiary education,services,at_home,reputation,mother,1,2,0,no,yes,no,no,yes,yes,yes,no,4,3,1,1,1,very bad,4,11,13,14
+737147,GP,F,16,U,GT3,T,Secondary education,Primary education,other,other,home,mother,1,1,0,no,no,no,no,yes,yes,yes,yes,4,5,2,1,1,very good,4,9,10,10
+630089,MS,F,16,R,GT3,T,Primary education,Primary education,at_home,other,fee,mother,2,1,0,no,no,no,yes,yes,yes,yes,yes,4,2,2,4,3,bad,0,13,12,14
+730152,MS,F,15,U,GT3,T,Secondary education,Primary education,at_home,other,home,mother,1,2,0,yes,yes,no,no,no,yes,yes,no,4,4,2,3,3,bad,0,9,10,9
+651638,MS,F,18,U,GT3,T,Primary education,Primary education,other,other,course,mother,2,2,0,no,no,no,yes,yes,yes,no,no,1,1,1,1,1,very good,6,11,12,9
+283734,GP,M,16,U,LE3,T,Postgraduate education,Tertiary education,teacher,other,course,mother,1,1,0,no,no,no,yes,no,yes,yes,no,5,4,5,1,1,average,7,14,14,15
+125939,GP,M,16,U,LE3,T,Secondary education,Primary education,other,other,course,mother,1,2,0,no,no,no,yes,yes,yes,yes,yes,4,2,3,1,2,very good,0,13,14,16
+723094,GP,M,16,U,GT3,T,Postgraduate education,Postgraduate education,teacher,teacher,course,mother,1,1,0,no,yes,no,no,yes,no,yes,yes,3,3,2,2,1,very good,16,9,9,8
+546438,MS,F,16,R,GT3,T,Primary education,Secondary education,other,other,home,father,1,3,0,yes,yes,no,no,no,yes,yes,yes,4,3,4,1,1,average,5,13,14,13
+979611,GP,M,18,U,GT3,T,Postgraduate education,Tertiary education,teacher,other,course,mother,1,3,0,no,yes,no,no,yes,yes,yes,yes,5,4,5,2,3,very good,0,14,13,14
+364512,MS,F,16,R,LE3,T,Secondary education,Primary education,other,other,home,mother,1,1,0,no,yes,no,no,yes,yes,yes,yes,5,4,3,1,1,very good,2,10,8,8
+707086,GP,F,15,U,GT3,A,Tertiary education,Tertiary education,other,health,reputation,father,1,4,0,yes,no,no,no,yes,yes,no,no,4,3,3,1,1,good,10,10,10,10
+167215,MS,M,16,R,LE3,T,Primary education,Primary education,at_home,other,course,mother,2,1,0,no,no,no,yes,yes,yes,yes,no,4,5,5,2,4,very good,0,10,10,9
+234508,GP,F,18,U,LE3,T,Secondary education,Secondary education,other,other,home,other,1,2,0,no,no,no,yes,no,yes,yes,yes,4,3,3,1,1,bad,0,10,9,12
+771155,GP,F,17,U,GT3,T,Primary education,Primary education,at_home,other,course,father,1,2,0,no,yes,no,no,no,yes,yes,no,5,3,3,1,1,average,2,9,11,11
+291232,MS,F,19,U,GT3,T,Primary education,Primary education,at_home,services,fee,father,2,1,1,no,no,no,no,yes,no,no,no,5,5,5,2,3,bad,0,5,0,0
+814998,MS,M,18,U,LE3,T,Primary education,Primary education,at_home,at_home,course,mother,2,2,0,no,yes,no,yes,yes,yes,no,no,4,3,3,1,4,very good,6,10,9,10
+905889,GP,M,15,U,GT3,T,Secondary education,Tertiary education,other,services,course,father,1,1,0,yes,yes,no,yes,no,yes,yes,yes,3,2,2,1,3,average,0,11,11,12
+175766,GP,F,17,U,GT3,T,Primary education,Primary education,at_home,services,course,mother,1,2,0,no,no,no,yes,yes,yes,yes,no,5,3,3,1,1,average,0,12,11,12
+600186,GP,M,16,U,GT3,T,Tertiary education,Secondary education,other,other,home,mother,1,1,0,no,yes,no,no,no,yes,yes,no,5,4,3,1,1,very good,4,12,12,12
+804107,MS,M,17,R,GT3,T,Secondary education,Secondary education,other,other,course,mother,3,1,1,no,yes,no,no,no,yes,yes,no,4,4,5,1,2,very good,0,10,9,9
+165726,MS,F,16,R,GT3,T,Secondary education,Tertiary education,at_home,services,course,mother,2,2,0,no,no,no,no,yes,yes,no,no,4,5,2,1,2,very good,0,16,17,17
+258823,MS,F,16,U,GT3,T,Primary education,Secondary education,other,services,course,mother,1,3,1,no,yes,no,no,yes,yes,no,no,1,3,2,1,2,good,3,9,8,8
+718467,GP,F,17,U,LE3,A,Tertiary education,Tertiary education,services,other,home,mother,1,2,0,yes,yes,no,no,yes,yes,yes,no,5,3,3,1,1,very good,0,12,12,13
+661353,GP,F,15,U,GT3,T,Postgraduate education,Tertiary education,services,other,reputation,mother,1,1,0,no,no,no,yes,yes,yes,yes,no,4,5,5,1,3,very bad,6,14,13,13
+630583,GP,M,18,R,LE3,T,Tertiary education,Secondary education,services,other,reputation,mother,2,3,0,no,yes,no,yes,yes,yes,yes,no,5,4,2,1,1,good,0,14,15,15
+612153,MS,M,16,R,GT3,T,Tertiary education,Secondary education,services,other,course,father,2,1,0,no,no,no,no,yes,yes,yes,no,4,5,5,2,3,very good,2,11,9,10
+478480,GP,F,18,U,LE3,A,Postgraduate education,Postgraduate education,health,other,home,mother,1,2,0,no,yes,yes,no,yes,yes,yes,yes,4,2,4,1,1,good,0,14,15,15
+865313,GP,M,17,U,LE3,T,Secondary education,Tertiary education,services,services,reputation,father,1,2,0,no,yes,no,no,no,yes,yes,no,5,3,3,1,3,average,0,10,11,11
+275203,GP,M,15,U,GT3,T,Postgraduate education,Tertiary education,teacher,other,course,mother,2,2,0,no,yes,no,no,yes,yes,yes,no,5,4,3,1,2,average,0,12,12,13
+654594,GP,F,18,U,GT3,T,Secondary education,Primary education,other,other,home,mother,1,2,0,no,yes,no,no,yes,yes,yes,yes,4,2,5,1,2,very bad,8,14,14,15
+820777,MS,M,17,R,GT3,T,Primary education,Primary education,other,services,fee,father,3,1,0,no,no,no,no,no,no,no,no,4,2,3,3,4,good,4,12,13,14
+573125,GP,M,18,U,GT3,T,Secondary education,Secondary education,other,other,reputation,mother,1,1,0,no,no,no,no,no,yes,yes,no,5,4,2,1,2,very good,6,15,14,15
+911774,GP,F,17,U,GT3,T,Tertiary education,Tertiary education,services,other,home,mother,2,3,0,no,yes,no,no,yes,yes,yes,yes,4,2,2,2,3,very good,10,11,11,11
+318126,GP,M,19,U,GT3,T,Tertiary education,Secondary education,services,at_home,home,mother,1,1,0,no,yes,no,no,yes,no,yes,yes,4,5,4,1,1,good,6,11,9,11
+979090,MS,F,18,R,GT3,T,Postgraduate education,Postgraduate education,teacher,at_home,reputation,mother,3,1,0,no,yes,no,yes,yes,yes,yes,yes,4,4,3,2,2,very good,4,7,9,10
+224046,MS,F,16,U,LE3,A,Secondary education,Secondary education,other,other,home,mother,1,1,0,no,yes,no,no,yes,no,no,no,4,3,4,1,2,very bad,6,7,7,8
+138304,MS,F,18,R,LE3,T,Postgraduate education,Postgraduate education,teacher,services,course,mother,1,2,0,no,no,no,yes,yes,yes,yes,no,5,4,3,3,4,bad,1,13,14,14
+561243,MS,F,19,U,LE3,T,Secondary education,Secondary education,other,other,home,mother,1,3,0,no,no,no,no,yes,yes,yes,yes,5,4,5,1,1,very bad,0,12,13,13
+516880,GP,F,17,U,GT3,A,Secondary education,Primary education,other,other,course,mother,2,3,0,no,no,no,yes,yes,yes,yes,yes,3,2,3,1,2,average,0,15,15,16
+955474,MS,M,18,R,GT3,T,Primary education,Primary education,services,other,course,other,2,1,1,no,yes,no,no,yes,no,yes,yes,5,3,3,2,3,very good,2,9,7,9
+566882,MS,F,16,R,LE3,T,Secondary education,Secondary education,other,services,course,father,1,2,0,no,no,no,yes,yes,yes,no,yes,5,4,3,1,1,very bad,0,11,13,12
+979858,GP,M,17,U,LE3,T,Postgraduate education,Tertiary education,teacher,other,course,mother,2,2,0,no,no,no,yes,yes,yes,yes,no,4,4,4,4,4,good,0,10,11,11
+882355,MS,F,15,U,GT3,T,Secondary education,Secondary education,other,services,course,mother,2,3,0,no,yes,no,yes,yes,yes,no,no,5,3,2,1,1,good,0,12,13,14
+711523,MS,F,17,R,GT3,T,Secondary education,Secondary education,other,other,reputation,mother,2,2,0,no,yes,no,yes,yes,yes,no,no,5,3,2,1,1,very bad,0,15,17,17
+765987,GP,M,15,U,LE3,T,Primary education,Secondary education,other,at_home,home,father,1,2,0,yes,yes,no,yes,yes,yes,yes,no,4,3,2,1,1,very good,0,14,13,14
+956748,MS,M,15,R,LE3,T,Primary education,Tertiary education,at_home,other,reputation,father,3,1,0,no,yes,no,yes,yes,yes,yes,no,4,2,4,3,5,average,2,10,11,11
+352764,MS,M,17,R,GT3,T,Primary education,Primary education,other,services,course,mother,2,1,0,no,yes,no,yes,no,yes,yes,yes,4,5,5,1,3,bad,0,10,9,10
+998613,GP,F,16,U,GT3,A,Postgraduate education,Primary education,other,other,home,mother,1,2,0,no,no,no,yes,yes,yes,yes,yes,5,3,3,1,2,very good,0,14,13,13
+818315,GP,M,15,U,GT3,T,Postgraduate education,Postgraduate education,health,health,fee,father,1,1,0,no,yes,yes,no,yes,yes,yes,no,5,4,2,1,1,very good,0,11,12,12
+908350,GP,F,18,U,LE3,T,Primary education,Primary education,other,other,home,mother,2,2,0,no,yes,no,no,no,yes,no,no,4,4,3,1,1,average,2,13,13,13
+467654,MS,F,16,R,GT3,T,Primary education,Primary education,at_home,other,fee,father,4,3,0,yes,yes,no,no,yes,yes,no,no,4,4,3,1,1,very good,2,10,9,10
+314020,GP,F,15,U,GT3,T,Primary education,Secondary education,at_home,services,course,father,1,2,0,no,no,no,no,no,yes,no,yes,2,3,4,2,4,very bad,6,11,11,11
+468452,GP,M,16,U,GT3,T,Secondary education,Primary education,other,other,course,mother,3,1,0,no,no,no,no,yes,yes,yes,no,4,3,3,1,1,good,7,15,16,16
+515515,GP,M,17,U,GT3,T,Tertiary education,Tertiary education,other,other,reputation,father,1,2,0,no,no,no,yes,no,yes,yes,no,4,3,4,1,4,good,4,11,9,10
+500109,GP,F,18,U,GT3,T,Secondary education,Secondary education,at_home,other,course,mother,4,2,0,no,no,no,yes,yes,yes,no,yes,4,2,5,1,1,bad,2,10,9,10
+398356,GP,M,21,R,LE3,T,Primary education,Primary education,at_home,other,course,other,2,2,2,no,yes,no,yes,yes,no,yes,yes,5,3,3,5,2,good,21,9,10,10
+193848,MS,F,19,U,GT3,T,Primary education,Primary education,other,other,course,other,2,2,1,no,yes,no,no,yes,yes,yes,yes,1,1,4,4,1,very bad,12,7,8,9
+522515,GP,F,18,U,GT3,T,Postgraduate education,Tertiary education,other,other,reputation,father,1,4,0,no,yes,no,no,yes,yes,yes,no,4,3,3,1,1,average,0,16,17,17
+108155,GP,F,18,R,GT3,T,Postgraduate education,Postgraduate education,teacher,other,reputation,mother,2,2,0,no,no,no,yes,yes,yes,yes,no,4,3,4,2,2,good,8,10,11,12
+686146,GP,F,15,R,GT3,T,Tertiary education,Postgraduate education,services,teacher,course,father,2,3,0,no,yes,no,no,yes,yes,yes,yes,4,2,2,2,2,very good,0,10,11,12
+363160,GP,F,16,U,GT3,T,Postgraduate education,Tertiary education,other,at_home,course,mother,1,3,0,yes,yes,no,no,yes,yes,yes,no,5,3,5,1,1,average,2,12,13,13
+759347,GP,F,17,U,GT3,T,Secondary education,Secondary education,other,other,course,mother,1,2,0,no,yes,no,no,yes,yes,no,yes,4,2,2,1,1,average,4,14,13,13
+371836,GP,F,15,U,GT3,T,Postgraduate education,Secondary education,other,other,reputation,mother,1,3,0,no,yes,no,yes,yes,yes,yes,no,5,3,3,1,3,very bad,4,15,15,15
+598863,MS,F,16,R,GT3,T,Primary education,Primary education,other,other,home,father,4,4,0,no,yes,no,no,no,yes,yes,no,4,3,2,1,1,very bad,0,13,10,13
+391999,GP,F,18,U,GT3,T,Secondary education,Primary education,other,other,reputation,mother,2,2,0,no,no,no,yes,yes,yes,yes,yes,4,3,1,1,1,very good,10,12,13,14
+237848,GP,F,6,U,GT3,T,Postgraduate education,Tertiary education,health,other,home,mother,1,2,0,no,yes,no,yes,yes,yes,yes,no,4,3,5,1,5,bad,2,14,14,15
+653880,MS,M,15,U,GT3,T,Tertiary education,Primary education,other,services,home,mother,2,1,0,no,yes,no,no,yes,yes,no,no,3,2,-3,1,3,good,0,10,9,11
+555808,GP,M,15,U,GT3,T,Secondary education,Secondary education,services,services,home,father,1,4,0,no,yes,no,yes,yes,yes,yes,no,5,5,4,1,2,very good,6,14,13,13
+786337,MS,Female,17,R,GT3,T,Postgraduate education,Postgraduate education,teacher,services,fee,father,2,2,0,no,yes,yes,yes,yes,yes,yes,no,4,3,3,1,2,very good,2,12,12,12
+421879,GP,M,15,U,GT3,T,Postgraduate education,Tertiary education,teacher,other,reputation,mother,1,2,0,no,no,no,no,yes,yes,yes,no,4,4,1,1,1,very bad,0,12,13,14
+672843,GP,M,15,U,GT3,T,Postgraduate education,Secondary education,other,other,course,mother,1,4,0,no,no,no,no,yes,yes,yes,no,3,3,3,1,1,average,0,11,9,10
+633556,GP,F,15,U,GT3,T,Secondary education,Secondary education,other,other,course,mother,1,4,0,yes,yes,no,no,yes,yes,yes,no,5,1,2,1,1,average,4,10,10,10
+722794,GP,M,16,U,GT3,T,Postgraduate education,Postgraduate education,services,services,course,mother,1,1,0,no,no,yes,yes,yes,yes,yes,no,5,3,2,1,2,very good,4,14,15,15
+650929,MS,F,15,R,LE3,T,Primary education,Primary education,at_home,services,reputation,father,2,2,0,no,yes,no,no,yes,yes,yes,no,5,4,3,1,2,good,0,10,10,10
+123247,GP,M,15,U,GT3,T,Postgraduate education,Postgraduate education,services,other,course,mother,1,1,0,no,yes,yes,yes,no,yes,yes,no,50,3,3,1,1,very good,2,12,13,12
