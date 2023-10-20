@@ -1,0 +1,34 @@
+The complete data description for the dataset is as follows:
+
+1. hotel: The name or type of the hotel (Resort Hotel or City Hotel).
+2. is_canceled: A binary indicator (0 or 1) representing whether the booking was canceled (1) or not (0).
+3. lead_time: The number of days that elapsed between the entering date of the booking into the PMS and the arrival date.
+4. arrival_date_year: The year of the arrival date.
+5. arrival_date_month: The month of the arrival date.
+6. arrival_date_week_number: The week number of the year for the arrival date.
+7. arrival_date_day_of_month: The day of the month for the arrival date.
+8. stays_in_weekend_nights: The number of weekend nights (Saturday or Sunday) the guest stayed or booked to stay at the hotel.
+9. stays_in_week_nights: The number of weekday nights (Monday to Friday) the guest stayed or booked to stay at the hotel.
+10. adults: The number of adults included in the reservation.
+11. children: The number of children included in the reservation.
+12. babies: The number of babies (infants) included in the reservation.
+13. meal: The type of meal booked (Undefined/SC – no meal package; BB – Bed & Breakfast; HB – Half board; FB – Full board).
+14. country: The country of origin of the guest (in ISO 3155–3:2013 format).
+15. market_segment: The market segment designation for the booking (e.g., TA – Travel Agents, TO – Tour Operators).
+16. distribution_channel: The booking distribution channel (e.g., TA – Travel Agents, TO – Tour Operators).
+17. is_repeated_guest: A binary indicator (0 or 1) representing whether the booking name was from a repeated guest (1) or not (0).
+18. previous_cancellations: The number of previous bookings that were canceled by the customer prior to the current booking.
+19. previous_bookings_not_canceled: The number of previous bookings not canceled by the customer prior to the current booking.
+20. reserved_room_type: The code for the room type reserved (anonymized for anonymity reasons).
+21. assigned_room_type: The code for the type of room assigned to the booking (anonymized for anonymity reasons).
+22. booking_changes: The number of changes/amendments made to the booking from the moment it was entered on the PMS until check-in or cancellation.
+23. deposit_type: Indication of whether the customer made a deposit to guarantee the booking (No Deposit, Non Refund, Refundable).
+24. agent: The ID of the travel agency that made the booking.
+25. company: The ID of the company/entity that made the booking or responsible for paying the booking (anonymized for anonymity reasons).
+26. days_in_waiting_list: The number of days the booking was in the waiting list before it was confirmed to the customer.
+27. customer_type: The type of booking (Contract, Group, Transient, Transient-party).
+28. adr: Average Daily Rate, calculated by dividing the sum of all lodging transactions by the total number of staying nights.
+29. required_car_parking_spaces: The number of car parking spaces required by the customer.
+30. total_of_special_requests: The number of special requests made by the customer (e.g., twin bed or high floor).
+31. reservation_status: The last status of the reservation (Canceled, Check-Out, No-Show).
+32. reservation_status_date: The date at which the last status was set.
